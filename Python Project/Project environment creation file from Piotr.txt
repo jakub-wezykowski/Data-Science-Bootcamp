@@ -1,0 +1,31 @@
+Create Jupyter environment:
+
+conda create --name ENVProjectPython python=3.10
+Activate it:
+
+for Windows:
+activate ENVProjectPython
+for MacOS:
+source activate ENVProjectPython
+Install packages:
+
+conda install numpy
+conda install pandas
+conda install matplotlib
+conda install seaborn
+conda install cartopy
+conda install folium
+conda install plotly
+Save Jupyter environment to file:
+
+conda list --explicit >ENVProjectPython.txt
+Restore virtual Jupyter environment on another computer:
+
+conda create --name ENVProjectPython --file ENVProjectPython.txt
+Set correct environment in Jupyter
+Install ipykernel
+
+conda install ipykernel
+Add own environment to Jupyter:
+
+python -m ipykernel install --user --name ENVPythonProject --display-name "ENVPythonProject"

@@ -1,0 +1,538 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,rm_restaurant_id,r_onlyname,r_city,r_state,r_score,r_ratings,r_category,r_price_range,r_lat,r_lng,min,max,mean,median,count,state_city,menu_items
+21,21,21,28,Sunny  Fines Breakfast Burritos,birmingham,al,,,"mexican, breakfast and brunch, burritos",Inexpensive,33.5098,-86.85464,3.0,16.78,8.620000000000001,4.78,1,AL/BIRMINGHAM,22
+28,28,28,43,Taco Bell,birmingham,al,4.1,91.0,"burritos, fast food, mexican",Inexpensive,33.4979239,-86.8757924,3.47,29.99,9.37486111111111,6.295,1,AL/BIRMINGHAM,72
+46,46,46,68,Los Arcos Mexican Restaurant,birmingham,al,4.3,100.0,"mexican, salads, tacos",Inexpensive,33.52812,-86.72866,3.29,17.88,9.419379310344826,9.89,1,AL/BIRMINGHAM,145
+80,80,80,106,Taqueria La Herradura,birmingham,al,,,"mexican, breakfast and brunch, soup",Inexpensive,33.5346,-86.84286,3.0,15.0,8.166666666666666,8.0,1,AL/BIRMINGHAM,30
+81,81,81,108,Cabo Coastal Grill,birmingham,al,,,"mexican, latin american, new mexican",Moderately expensive,33.43843,-86.86611,5.0,22.99,11.94875,12.49,1,AL/BIRMINGHAM,72
+103,103,103,151,Urbano Taco Bar,birmingham,al,4.4,21.0,"mexican, latin american, spanish",Moderately expensive,33.54819,-86.74283,3.0,13.5,7.832222222222222,7.875,1,AL/BIRMINGHAM,18
+105,105,105,155,Little Donkey Mexican Restaurant  Homewood,birmingham,al,4.7,96.0,"mexican, latin american, comfort food",Inexpensive,33.48294,-86.79133,3.0,45.6,14.657142857142858,11.85,1,AL/BIRMINGHAM,98
+115,115,115,174,Crawdaddys,birmingham,al,,,"mexican, latin american, new mexican",Moderately expensive,33.592864772769964,-86.95821521368951,4.75,10.99,6.91,4.99,1,AL/BIRMINGHAM,3
+159,159,159,253,Taco Bell,birmingham,al,4.0,26.0,"burritos, fast food, mexican",Inexpensive,33.557972,-86.8897092,3.47,29.99,9.311466666666666,6.59,1,AL/BIRMINGHAM,75
+201,201,201,394,Amigos Mexican Grill,birmingham,al,,,"mexican, latin american, new mexican",Moderately expensive,33.3807629,-86.7993697,3.0,13.5,7.371666666666667,7.5,1,AL/BIRMINGHAM,30
+203,203,203,403,Hacienda Mexican Grill,birmingham,al,4.3,14.0,"mexican, comfort food, latin american",Inexpensive,33.38486,-86.7366,3.25,21.99,11.239099099099098,12.5,1,AL/BIRMINGHAM,111
+208,208,208,410,Little Donkey Mexican Restaurant  Greystone,birmingham,al,4.6,27.0,"mexican, latin american, comfort food",Inexpensive,33.41942,-86.67403,3.0,45.6,14.399895833333334,9.3,1,AL/BIRMINGHAM,96
+218,218,218,471,La Brisa Mexican Restaurant,birmingham,al,4.6,19.0,"mexican, new mexican, vegetarian friendly",Moderately expensive,33.35299,-86.86385,3.25,17.95,9.403947368421052,9.95,1,AL/BIRMINGHAM,114
+225,225,225,901,Moes Southwest Grill,birmingham,al,4.6,28.0,"fast food, mexican",Inexpensive,33.411,-86.67116,3.49,44.99,14.336153846153849,3.49,1,AL/BIRMINGHAM,13
+234,234,234,1753,Mexican Village Restaurant,milwaukee,wi,,,"mexican, latin american, new mexican",Inexpensive,42.9865559,-88.0280432,5.0,25.0,11.62162162162162,10.0,1,WI/MILWAUKEE,37
+236,236,236,1779,Zebbs Restaurant,milwaukee,wi,4.8,65.0,"burgers, american, sandwiches, seafood, italian, pasta, chicken, fried foods, stir fried, breakfast and brunch, greek, mexican, salads, bbq",Moderately expensive,42.9807,-87.94913,3.0,25.25,13.166642857142856,14.5,1,WI/MILWAUKEE,140
+242,242,242,1876,Taqueria El Paso,milwaukee,wi,,,"mexican, latin american, new mexican, exclusive to eats",Inexpensive,43.0258495,-87.9114744,4.0,12.0,7.142857142857143,6.0,1,WI/MILWAUKEE,7
+243,243,243,1877,Villanas Restaurant and Bar,milwaukee,wi,,,"mexican, new mexican, comfort food",Inexpensive,43.003368,-87.952002,3.6,19.5,11.208,10.39,1,WI/MILWAUKEE,25
+251,251,251,1887,El Jalapeo,milwaukee,wi,,,"mexican, latin american, new mexican",Inexpensive,43.0228533,-87.9397699,3.25,3.25,3.25,3.25,1,WI/MILWAUKEE,1
+259,259,259,1899,GrayJett Cafe,milwaukee,wi,,,"mexican, tacos, comfort food",Moderately expensive,43.0831,-87.96817,5.0,18.0,11.583333333333334,11.0,1,WI/MILWAUKEE,24
+283,283,283,1936,HuevoRito,milwaukee,wi,4.8,14.0,"mexican, burritos, breakfast and brunch",Inexpensive,43.0761,-87.95806,3.0,30.0,8.3125,7.0,1,WI/MILWAUKEE,16
+303,303,303,1965,Los Paisa Mexican Restaurant,milwaukee,wi,,,"mexican, salads, breakfast and brunch, healthy",Moderately expensive,43.1770076,-87.9150859,3.99,17.0,10.252272727272729,10.25,1,WI/MILWAUKEE,66
+310,310,310,1976,Little CancunBayview,milwaukee,wi,,,"mexican, new mexican",Moderately expensive,42.98862,-87.87805,3.0,15.0,9.884285714285712,11.0,1,WI/MILWAUKEE,35
+349,349,349,2033,El Rincn Catracho Restaurant,milwaukee,wi,,,"mexican, latin american, new mexican",Inexpensive,43.0200096,-87.929459,3.5,15.5,8.629122807017545,8.5,1,WI/MILWAUKEE,57
+350,350,350,2034,Doa Judys,milwaukee,wi,,,"mexican, latin american, new mexican",Inexpensive,43.08229,-87.905,3.0,8.0,5.444444444444445,5.0,1,WI/MILWAUKEE,9
+359,359,359,2046,Mr Taco,milwaukee,wi,,,"mexican, latin american, new mexican, exclusive to eats",Inexpensive,43.0463694,-87.9109819,3.0,12.0,5.966666666666667,5.0,1,WI/MILWAUKEE,15
+365,365,365,2055,Tres Hermanos Mexican Food Restaurant,milwaukee,wi,,,"mexican, latin american, new mexican",Inexpensive,43.002992,-87.9296511,3.25,14.99,9.918,9.99,1,WI/MILWAUKEE,30
+367,367,367,2057,Los Gemelos Tacos,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,43.012432,-87.925859,3.0,12.0,9.5,9.0,1,WI/MILWAUKEE,16
+368,368,368,2059,Fiesta Cafe,milwaukee,wi,,,"mexican, latin american, new mexican",Inexpensive,43.01668,-87.9116,4.72,29.49,15.444628099173553,15.34,1,WI/MILWAUKEE,121
+372,372,372,2064,El Rey,milwaukee,wi,4.9,17.0,"mexican, healthy, latin american",Inexpensive,43.0219111,-87.9325903,3.19,6.99,4.9471428571428575,4.99,1,WI/MILWAUKEE,14
+375,375,375,2067,Jc Kings Tortas,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,42.98753,-87.92859,3.0,17.5,8.86376811594203,9.25,1,WI/MILWAUKEE,69
+380,380,380,2072,Cafe Corazon Bay View,milwaukee,wi,4.8,61.0,"mexican, latin american, new mexican",Moderately expensive,43.0012152,-87.9024982,3.0,35.0,11.8375,12.0,1,WI/MILWAUKEE,40
+383,383,383,2075,Taco Barrio,milwaukee,wi,4.7,32.0,"mexican, latin american, new mexican",Moderately expensive,43.01668,-87.9116,4.13,11.8,9.538333333333334,9.735,1,WI/MILWAUKEE,18
+384,384,384,2076,Orenda Cafe,milwaukee,wi,4.6,57.0,"american, sandwiches, breakfast and brunch, mexican, burgers, burgers, salads, salads",Moderately expensive,43.0219,-87.95826,3.0,18.0,9.41158536585366,10.0,1,WI/MILWAUKEE,82
+386,386,386,2078,El Tucanazo Taqueria And Seafood,milwaukee,wi,4.5,131.0,"mexican, latin american, american, tex mex",Inexpensive,42.985157,-87.92915,3.0,45.0,12.382352941176473,12.0,1,WI/MILWAUKEE,119
+393,393,393,2090,Lazos Taco Shack,milwaukee,wi,4.6,140.0,"mexican, latin american, new mexican",Inexpensive,43.0384,-87.92059,3.0,58.99,12.3925,11.47,1,WI/MILWAUKEE,40
+410,410,410,2115,Fiesta Garibaldi,milwaukee,wi,,,"mexican, latin american, seafood",Inexpensive,43.00259,-87.92193,9.43,70.8,23.68243478260869,23.59,1,WI/MILWAUKEE,115
+413,413,413,2118,Chicken Palace,milwaukee,wi,4.2,16.0,"mexican, latin american, new mexican",Inexpensive,43.02128,-87.95732,3.54,56.64,13.567735849056604,8.48,1,WI/MILWAUKEE,53
+415,415,415,2123,El Tlaxcalteca,milwaukee,wi,4.8,13.0,"mexican, latin american, new mexican",Moderately expensive,43.01028,-87.92827,3.5,26.0,11.136060606060608,11.5,1,WI/MILWAUKEE,33
+418,418,418,2130,El Tenampa Mexican Grill,milwaukee,wi,4.3,83.0,"mexican, tacos, breakfast and brunch",Inexpensive,43.175256,-88.0437797,3.0,22.75,11.972966101694915,12.725,1,WI/MILWAUKEE,118
+428,428,428,2151,Taco Stop MKE,milwaukee,wi,4.5,80.0,"mexican, burritos, tacos",Inexpensive,43.05309,-87.89285,3.0,12.99,7.416022727272727,8.370000000000001,1,WI/MILWAUKEE,88
+434,434,434,2159,Maras Grill,milwaukee,wi,4.8,18.0,"mexican, latin american, new mexican",Inexpensive,43.08163,-88.0178,3.0,12.0,9.092647058823529,9.75,1,WI/MILWAUKEE,34
+435,435,435,2160,Los Comales  Milwaukee WI,milwaukee,wi,4.7,57.0,"mexican, latin american, new mexican",Inexpensive,43.0178697,-87.9327959,3.25,53.29,10.2102,9.09,1,WI/MILWAUKEE,50
+441,441,441,2172,Taco Mikes,milwaukee,wi,4.5,28.0,"mexican, latin american, new mexican",Inexpensive,43.0430709,-87.9148185,3.6,30.0,9.16279069767442,5.0,1,WI/MILWAUKEE,43
+457,457,457,2192,Mazorca,milwaukee,wi,,,"mexican, latin american, new mexican",Inexpensive,43.02446,-87.91779,3.0,14.0,7.9,5.0,1,WI/MILWAUKEE,20
+458,458,458,2193,Mangos Cafe,milwaukee,wi,4.6,39.0,"mexican, sandwich, wings, latin american",Inexpensive,43.05274,-87.90304,3.0,15.95,7.441346153846154,4.95,1,WI/MILWAUKEE,52
+463,463,463,2202,Judys On North,milwaukee,wi,4.5,133.0,"mexican, latin american, new mexican",Inexpensive,43.059936,-87.883388,3.45,18.75,11.535,11.875,1,WI/MILWAUKEE,70
+511,511,511,2277,Botanas II Mexican Restaurant,milwaukee,wi,4.6,200.0,"mexican, tacos, vegetarian friendly",Moderately expensive,42.9735218,-87.8910658,3.0,20.95,11.994642857142855,12.95,1,WI/MILWAUKEE,84
+512,512,512,2278,Chipotle Mexican Grill,milwaukee,wi,4.7,200.0,"healthy, mexican, group friendly",Inexpensive,43.0483526,-87.9045226,3.1,15.65,7.515000000000001,6.300000000000001,1,WI/MILWAUKEE,40
+514,514,514,2280,Taqueria La Esperanza,milwaukee,wi,4.7,200.0,"mexican, breakfast and brunch, seafood, burgers, sandwiches, group friendly",Inexpensive,43.0125748,-87.9391196,3.0,42.0,11.2148031496063,10.99,1,WI/MILWAUKEE,127
+524,524,524,2291,Belair Cantina,milwaukee,wi,4.6,72.0,"mexican, vegetarian friendly, kids friendly, family meals",Inexpensive,43.0665913,-87.878329,3.0,96.0,17.951129032258066,9.98,1,WI/MILWAUKEE,62
+526,526,526,2293,Qdoba Mexican Eats,milwaukee,wi,4.6,184.0,"mexican, bowls, salads, group friendly",Inexpensive,43.0531555,-87.8939434,3.6,13.15,8.05,6.65,1,WI/MILWAUKEE,32
+530,530,530,2297,Cafe Corazon Riverwest,milwaukee,wi,4.6,102.0,"mexican, vegan friendly, vegetarian friendly",Moderately expensive,43.07549,-87.90045,3.0,35.0,11.533783783783784,12.0,1,WI/MILWAUKEE,37
+542,542,542,2314,Chuchos Red Tacos,milwaukee,wi,,,"mexican, new mexican",Inexpensive,42.9629385,-87.9201814,3.75,5.63,4.586666666666667,4.38,1,WI/MILWAUKEE,3
+564,564,564,2349,Volovanes Delicias,milwaukee,wi,,,"mexican, drinks, tamale, pastry",Inexpensive,43.00283,-87.94796,3.0,38.0,8.956521739130435,3.25,1,WI/MILWAUKEE,23
+566,566,566,2353,Neveria la Flor de Mayo,milwaukee,wi,,,"new mexican, mexican, desserts",Moderately expensive,43.0027223,-87.9263176,3.0,8.5,4.651315789473684,5.0,1,WI/MILWAUKEE,38
+577,577,577,2377,Michos,milwaukee,wi,,,"mexican, latin american, tacos",Inexpensive,43.04487,-87.92364,3.0,140.0,14.870967741935484,3.5,1,WI/MILWAUKEE,31
+578,578,578,2378,Chicken Palace,milwaukee,wi,,,"mexican, chicken, sandwich",Inexpensive,43.00678,-87.93755,3.54,53.81,12.04942307692308,9.9,1,WI/MILWAUKEE,52
+580,580,580,2381,Lonchera El Tapatio,milwaukee,wi,4.5,46.0,"mexican, burritos, tacos",Inexpensive,43.02186,-87.94707,3.25,63.0,10.18529411764706,7.99,1,WI/MILWAUKEE,17
+581,581,581,2382,La Mesa,milwaukee,wi,3.9,43.0,"american, mexican, desserts",Inexpensive,43.05978,-87.8878097,3.25,20.99,8.954315789473684,7.29,1,WI/MILWAUKEE,95
+592,592,592,2396,Taco Bell,milwaukee,wi,4.3,165.0,"burritos, fast food, mexican",Inexpensive,42.9844752,-87.947962,3.11,25.0,9.024383561643836,6.59,1,WI/MILWAUKEE,73
+597,597,597,2402,La Mesa,milwaukee,wi,,,"mexican, desserts, family meals",Inexpensive,43.0249,-87.91178,7.99,38.99,17.728823529411763,14.95,1,WI/MILWAUKEE,17
+600,600,600,2406,Taco Bell,milwaukee,wi,4.0,168.0,"burritos, fast food, mexican",Inexpensive,43.0967903,-87.9856438,3.0,28.19,9.26320987654321,6.23,1,WI/MILWAUKEE,81
+609,609,609,2475,Marco Pollo,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,43.04487,-87.92364,4.0,12.0,10.928571428571429,12.0,1,WI/MILWAUKEE,14
+617,617,617,2496,Qdoba Mexican Eats,milwaukee,wi,4.6,200.0,"mexican, bowls, salads",Inexpensive,43.0404469,-87.9331802,3.6,13.15,8.345161290322581,8.3,1,WI/MILWAUKEE,31
+619,619,619,2499,Belair Cantina,milwaukee,wi,4.6,157.0,"mexican, vegetarian friendly, kids friendly, family meals",Inexpensive,43.056382,-87.8981917,3.0,96.0,19.104736842105265,10.75,1,WI/MILWAUKEE,57
+625,625,625,2507,Chipotle Mexican Grill,milwaukee,wi,4.5,97.0,"healthy, mexican",Inexpensive,42.9861953,-87.9477999,3.15,16.0,7.621250000000001,6.3,1,WI/MILWAUKEE,40
+626,626,626,2509,Qdoba Mexican Eats,milwaukee,wi,4.7,103.0,"mexican, bowls, salads",Inexpensive,43.0184224,-87.9672537,3.6,13.15,8.13125,6.65,1,WI/MILWAUKEE,32
+629,629,629,2517,El Tsunami,milwaukee,wi,,,"mexican, seafood, comfort food",Moderately expensive,42.95964,-87.91067,3.0,40.0,14.484266666666668,14.95,1,WI/MILWAUKEE,150
+644,644,644,2557,El Salvador Restaurant,milwaukee,wi,,,"latin american, mexican, vegetarian",Moderately expensive,43.00236,-87.91853,4.0,11.99,8.355142857142857,8.99,1,WI/MILWAUKEE,35
+647,647,647,2564,Buenavista Banquets and Restaurant,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,42.98809,-88.00651,3.0,35.0,10.793260869565218,10.5,1,WI/MILWAUKEE,46
+651,651,651,2568,Taqueria La Vecindad,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,42.98779,-87.98656,4.0,8.0,6.230769230769231,7.0,1,WI/MILWAUKEE,39
+652,652,652,2569,Cielito Lindo,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,43.02340018528469,-87.91290883950795,3.0,17.99,11.357924528301888,12.49,1,WI/MILWAUKEE,53
+653,653,653,2570,Guadalajara Restaurant Mexican Food,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,43.022,-87.92415,3.0,16.95,10.683720930232557,11.95,1,WI/MILWAUKEE,43
+658,658,658,2576,Caliente Latin Kitchen  Rum Bar,milwaukee,wi,,,"latin american, mexican, vegetarian",Moderately expensive,43.03702,-87.97809,3.0,30.0,11.588235294117649,11.0,1,WI/MILWAUKEE,17
+682,682,682,2637,Chuchos Red Tacos,milwaukee,wi,4.7,61.0,"mexican, latin american, new mexican",Inexpensive,42.96269,-87.91994,3.75,5.63,4.69,4.69,1,WI/MILWAUKEE,2
+683,683,683,2638,Cinco de Mayo Fiesta,milwaukee,wi,4.5,39.0,mexican,Moderately expensive,42.9813,-88.01816,3.0,50.0,12.245263157894737,9.95,1,WI/MILWAUKEE,171
+693,693,693,2658,Taco Bell,milwaukee,wi,4.0,82.0,"burritos, fast food, mexican",Inexpensive,42.9861183,-88.0081363,3.0,27.11,9.028395061728396,6.23,1,WI/MILWAUKEE,81
+700,700,700,2677,Qdoba Mexican Eats,milwaukee,wi,4.7,86.0,"mexican, bowls, salads",Inexpensive,43.0503957,-88.0079073,3.6,13.15,8.689285714285715,10.775,1,WI/MILWAUKEE,28
+727,727,727,2845,Taco Bell,milwaukee,wi,4.0,124.0,"burritos, fast food, mexican",Inexpensive,43.0609131,-87.983832,3.0,28.19,9.224756097560975,6.41,1,WI/MILWAUKEE,82
+732,732,732,2857,Taco Bell,milwaukee,wi,3.6,68.0,"burritos, fast food, mexican",Inexpensive,43.0930199,-88.0075436,3.0,27.11,9.065822784810129,6.23,1,WI/MILWAUKEE,79
+741,988,988,3543,Taco Bell,milwaukee,wi,4.3,102.0,"burritos, fast food, mexican",Inexpensive,43.116462,-88.056244,3.11,28.19,9.617333333333333,6.59,1,WI/MILWAUKEE,75
+744,1010,1010,3939,Qdoba Mexican Eats,milwaukee,wi,4.7,110.0,"mexican, bowls, salads",Inexpensive,42.958952,-87.9202341,3.6,13.15,8.084375,6.65,1,WI/MILWAUKEE,32
+752,1018,1018,3967,Taco Bell,milwaukee,wi,4.5,106.0,"burritos, fast food, mexican",Inexpensive,42.9596261,-87.9144967,3.11,28.19,8.944415584415585,6.0,1,WI/MILWAUKEE,77
+756,1022,1022,4162,Restaurante La Salsa,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,42.98805,-87.90876,3.95,37.5,11.726404494382024,11.95,1,WI/MILWAUKEE,89
+771,1037,1037,4198,Qdoba Mexican Eats,milwaukee,wi,4.6,199.0,"mexican, bowls, salads",Inexpensive,43.0748,-87.8882271,3.6,13.15,8.807142857142857,10.95,1,WI/MILWAUKEE,28
+772,1038,1038,4199,Taco Bell,milwaukee,wi,4.2,45.0,"burritos, fast food, mexican",Inexpensive,43.1794572,-88.010273,3.11,28.19,9.62418918918919,6.65,1,WI/MILWAUKEE,74
+776,1084,1084,4778,Taco Bell,milwaukee,wi,4.3,200.0,"burritos, fast food, mexican",Inexpensive,43.0389556,-87.940917,3.0,27.11,8.990823529411765,6.23,1,WI/MILWAUKEE,85
+789,1097,1097,4791,Taco Bell,milwaukee,wi,4.3,55.0,"burritos, fast food, mexican",Inexpensive,42.983833,-87.91395,3.0,27.11,9.20474358974359,6.23,1,WI/MILWAUKEE,78
+794,1102,1102,4796,La Casa Mexicana,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,43.05957,-87.88793,4.29,14.49,9.007021276595744,9.29,1,WI/MILWAUKEE,47
+796,1104,1104,4798,La Casa Mexicana,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,43.02512,-87.91132,4.29,14.49,9.170769230769231,9.49,1,WI/MILWAUKEE,52
+798,1106,1106,4800,The Laughing Taco,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,43.02051,-87.91143,4.0,5.0,4.5,4.75,1,WI/MILWAUKEE,10
+804,1112,1112,4806,Margarita Paradise,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,43.03524,-87.9081,3.5,10.95,7.542424242424242,8.95,1,WI/MILWAUKEE,33
+831,1174,1174,5269,Taco Bell,milwaukee,wi,4.2,101.0,"burritos, fast food, mexican",Inexpensive,42.93133,-87.94873,3.0,27.11,9.16716049382716,6.23,1,WI/MILWAUKEE,81
+832,1175,1175,5270,Romines High Pockets,milwaukee,wi,,,"mexican, latin american, new mexican",Moderately expensive,42.93348,-87.95145,3.0,14.99,9.362580645161293,9.99,1,WI/MILWAUKEE,31
+854,2255,2255,10042,Cha Cha Cha,portland,or,4.4,16.0,"mexican, latin american, new mexican",Moderately expensive,45.57315,-122.55835,3.5,19.0,12.085,13.0,1,OR/PORTLAND,46
+868,2745,2745,10954,Salvi PDX,portland,or,,,"latin american, mexican, vegetarian",Inexpensive,45.52271,-122.60398,4.5,55.0,13.72222222222222,7.5,1,OR/PORTLAND,9
+886,2766,2766,10977,Fernandos Alegria,portland,or,,,"mexican, burritos, chicken",Moderately expensive,45.52277160736754,-122.67891481518744,13.0,13.0,13.0,13.0,1,OR/PORTLAND,13
+888,2768,2768,10979,Birrieria Los  Hermanos,portland,or,,,"mexican, tacos, comfort food",Moderately expensive,45.518719,-122.465362,3.5,14.0,9.8125,13.0,1,OR/PORTLAND,16
+891,2771,2771,10984,Baja Fresh,portland,or,4.7,48.0,"mexican, fast food, family meals",Inexpensive,45.518143,-122.560036,3.39,14.39,7.843333333333334,7.49,1,OR/PORTLAND,30
+920,2813,2813,11027,Don Pedro Mexican Restaurant,portland,or,4.5,200.0,"mexican, burritos, tacos, quesadillas",Moderately expensive,45.5194203,-122.4690249,3.25,21.0,13.004545454545456,12.99,1,OR/PORTLAND,99
+1012,2920,2920,11146,Casa Maya a Taqueria  Cantina,portland,or,4.6,52.0,"mexican, new mexican",Inexpensive,45.582924,-122.687065,3.0,13.75,7.342783505154639,7.0,1,OR/PORTLAND,97
+1018,2927,2927,11154,El Toro Burritos  SE Martin Luther King Jr Blvd,portland,or,,,"mexican, tex mex, latin american",Moderately expensive,45.51962,-122.66143,5.25,17.5,14.24939393939394,17.5,1,OR/PORTLAND,33
+1070,2987,2987,11220,Antojitos Mexicanos,portland,or,4.7,58.0,mexican,Inexpensive,45.5578067,-122.5439845,3.0,14.24,9.544,10.49,1,OR/PORTLAND,45
+1081,3001,3001,11234,La Cocina Restaurant,portland,or,4.8,150.0,"black-owned, mexican",Inexpensive,45.55083,-122.66709,3.0,19.5,10.886904761904765,11.25,1,OR/PORTLAND,84
+1107,3035,3035,11271,Taqueria Queretaro,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.55348,-122.51892,5.0,15.0,11.3,11.0,1,OR/PORTLAND,20
+1108,3036,3036,11272,Fernandos Alegria,portland,or,,,"mexican, latin american, new mexican",Moderately expensive,45.48594,-122.58835,13.0,13.0,13.0,13.0,1,OR/PORTLAND,13
+1110,3038,3038,11274,La Tia Juana Taqueria,portland,or,4.4,64.0,"mexican, latin american, new mexican",Inexpensive,45.5209,-122.47292,3.1,13.5,8.533157894736842,8.5,1,OR/PORTLAND,19
+1116,3044,3044,11281,Mi Pueblo Mexican Restaurante,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.44676,-122.57999,3.0,27.0,15.574074074074074,17.0,1,OR/PORTLAND,135
+1117,3045,3045,11282,Cha Cha Cha,portland,or,,,"mexican, latin american, new mexican",Moderately expensive,45.501261801763526,-122.67167189030688,3.5,75.0,13.039473684210526,9.5,1,OR/PORTLAND,38
+1123,3052,3052,11289,El Nutri Taco,portland,or,5.0,73.0,"mexican, vegan, vegetarian",Inexpensive,45.55891,-122.64328,3.0,12.0,7.842592592592593,8.5,1,OR/PORTLAND,27
+1126,3055,3055,11293,Pollo Norte,portland,or,4.9,68.0,"mexican, latin american, new mexican",Inexpensive,45.526762,-122.6351666,4.0,30.0,14.63157894736842,13.0,1,OR/PORTLAND,19
+1140,3070,3070,11309,Taco Pedaler,portland,or,4.7,27.0,"mexican, latin american, new mexican",Moderately expensive,45.5352071,-122.6424218,3.0,60.0,8.795454545454545,5.75,1,OR/PORTLAND,22
+1142,3072,3072,11311,Mestizo,portland,or,4.8,64.0,"mexican, tacos, latin fusion, asian fusion, women-owned, bowls, gluten free, vegan, vegetarian, tacos, latin american",Moderately expensive,45.50471,-122.63543,3.0,19.0,12.170212765957446,12.0,1,OR/PORTLAND,47
+1144,3074,3074,11314,Muchas Gracias,portland,or,4.5,100.0,"mexican, latin american, new mexican",Inexpensive,45.53456,-122.65827,3.09,13.49,7.67,7.99,1,OR/PORTLAND,89
+1145,3075,3075,11315,Mixtecapdx Restaurant,portland,or,,,"mexican, tacos",Inexpensive,45.50644,-122.57834,3.0,30.0,10.147727272727272,10.25,1,OR/PORTLAND,44
+1151,3081,3081,11321,Super Burrito Express,portland,or,4.8,50.0,"mexican, latin american, new mexican",Inexpensive,45.59263,-122.75689,3.0,12.5,6.846835443037975,7.5,1,OR/PORTLAND,79
+1152,3083,3083,11323,El Paraiso Mexican Food,portland,or,5.0,12.0,"mexican, latin american, latin fusion",Moderately expensive,45.52247,-122.67369,3.0,11.0,8.38888888888889,9.0,1,OR/PORTLAND,36
+1157,3088,3088,11328,Victoricos Mexican Food,portland,or,4.6,197.0,"mexican, latin american, new mexican",Inexpensive,45.519392,-122.538187,3.5,14.49,8.197731958762887,8.99,1,OR/PORTLAND,97
+1158,3089,3089,11329,Victoricos Mexican Food,portland,or,4.8,116.0,"mexican, latin american, new mexican",Inexpensive,45.5873171,-122.7390734,3.25,14.49,8.385172413793104,8.99,1,OR/PORTLAND,87
+1161,3092,3092,11332,Javiers Tacos,portland,or,4.3,156.0,"mexican, latin american, new mexican",Inexpensive,45.5774739,-122.6680769,3.25,15.75,8.47645390070922,8.5,1,OR/PORTLAND,141
+1163,3094,3094,11334,Nios Birrieria,portland,or,4.4,31.0,"mexican, latin american, new mexican",Inexpensive,45.55777,-122.541,3.0,24.99,9.644893617021276,7.8,1,OR/PORTLAND,47
+1165,3096,3096,11336,Pig Patas Tacos,portland,or,4.7,78.0,"mexican, latin american, new mexican",Inexpensive,45.5629245,-122.6604861,3.0,22.0,9.166666666666666,9.0,1,OR/PORTLAND,51
+1167,3098,3098,11338,Mas Veggies Vegan Taqueria  Downtown Portland,portland,or,4.6,129.0,"american, vegetarian, new mexican, comfort food, vegan, mexican",Moderately expensive,45.51743,-122.67853,3.75,21.95,9.178378378378378,10.95,1,OR/PORTLAND,37
+1187,3137,3137,11379,Don Pedro Food Cart,portland,or,,,"mexican, chicken, vegetarian friendly",Inexpensive,45.520991,-122.6761383,3.0,12.8,9.264473684210529,10.0,1,OR/PORTLAND,38
+1188,3138,3138,11380,Salvi PDX,portland,or,,,"mexican, vegetarian friendly",Inexpensive,45.52642,-122.63705,4.5,65.0,15.875,8.0,1,OR/PORTLAND,16
+1199,3150,3150,11393,Casa Dilla,portland,or,,,"mexican, vegetarian, latin fusion, allergy friendly",Inexpensive,45.52563,-122.67759,3.0,8.5,7.538461538461538,8.0,1,OR/PORTLAND,13
+1209,3160,3160,11404,Liv Bowl,portland,or,,,"mexican, new mexican, american, healthy, family friendly, kids friendly",Inexpensive,45.56294,-122.65907,3.0,11.0,7.785714285714286,8.0,1,OR/PORTLAND,14
+1227,3181,3181,11430,Tamale Boy,portland,or,4.6,54.0,"mexican, new mexican, latin american, vegan, vegetarian friendly, vegan friendly, vegetarian, healthy",Inexpensive,45.5718189,-122.6468895,3.0,17.6,8.628676470588236,6.0,1,OR/PORTLAND,68
+1231,3185,3185,11434,Ole Ole,portland,or,4.7,200.0,"mexican, latin american, new mexican, group friendly",Inexpensive,45.5231582,-122.6436837,3.12,11.75,7.393913043478261,8.75,1,OR/PORTLAND,69
+1234,3188,3188,11437,Muchas Gracias,portland,or,4.8,200.0,"mexican, group friendly",Inexpensive,45.5323087,-122.5589791,3.39,15.25,9.365405405405404,9.99,1,OR/PORTLAND,111
+1236,3190,3190,11440,El Burrito Azteca,portland,or,4.8,200.0,"mexican, latin american, new mexican, group friendly",Inexpensive,45.5697202,-122.6872001,3.25,10.75,7.675454545454545,8.45,1,OR/PORTLAND,55
+1257,3230,3230,11483,El Burrito Azteca,portland,or,4.6,88.0,"mexican, latin american, new mexican, alcohol",Inexpensive,45.5462987,-122.5937591,3.15,14.95,7.939893617021277,6.45,1,OR/PORTLAND,94
+1262,3235,3235,11488,Wham Bam Burrito,portland,or,,,"mexican, latin american, new mexican, alcohol",Inexpensive,45.53084,-122.688324,4.2,14.38,9.843478260869563,11.98,1,OR/PORTLAND,23
+1263,3236,3236,11489,Basically Just Burrito Bowls,portland,or,,,"mexican, latin american, new mexican, alcohol",Inexpensive,45.53085,-122.68829,3.99,15.99,9.29,10.49,1,OR/PORTLAND,20
+1269,3242,3242,11495,Taco Assembly,portland,or,,,"mexican, latin american, new mexican, alcohol",Inexpensive,45.53085,-122.68829,3.0,35.0,13.685714285714283,10.0,1,OR/PORTLAND,35
+1270,3243,3243,11496,Sayulita Quesadillas,portland,or,,,"mexican, latin american, new mexican, alcohol",Inexpensive,45.53085,-122.68829,3.58,13.18,9.35925925925926,10.78,1,OR/PORTLAND,27
+1271,3244,3244,11497,El Burrito Borracho,portland,or,3.3,13.0,"mexican, latin american, new mexican, alcohol",Inexpensive,45.53085,-122.68829,3.49,11.99,9.08090909090909,10.99,1,OR/PORTLAND,22
+1287,3261,3261,11516,Al Chile Cantina,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.5526,-122.66642,4.0,15.0,8.3125,8.5,1,OR/PORTLAND,8
+1288,3262,3262,11517,Poblanos Peppers Mexican Restaurant,portland,or,,,"mexican, kids friendly, seafood, american, healthy, fast food, street food, everyday essentials, convenience, grocery, snacks, home &amp; personal care",Inexpensive,45.5339079,-122.6012666,3.0,9.0,6.381818181818182,8.0,1,OR/PORTLAND,55
+1300,3275,3275,11530,Jalapeo  Rocoto Pepper,portland,or,,,"mexican, latin american, new mexican",Moderately expensive,45.5592,-122.6392,3.0,19.99,11.673253012048193,11.99,1,OR/PORTLAND,83
+1303,3278,3278,11533,Pepe Chiles Taqueria,portland,or,,,"mexican, tacos, seafood",Inexpensive,45.548,-122.66825,3.0,12.0,5.9375,4.0,1,OR/PORTLAND,32
+1304,3280,3280,11535,Mariscos El Trio,portland,or,,,"mexican, burritos, tacos, seafood",Inexpensive,45.523165,-122.6563783,3.0,29.0,16.282608695652176,17.0,1,OR/PORTLAND,46
+1314,3291,3291,11547,Taquero Mucho,portland,or,4.7,18.0,"mexican, latin american, new mexican",Moderately expensive,45.57634,-122.66171,3.0,14.5,8.688461538461539,11.0,1,OR/PORTLAND,65
+1324,3306,3306,11563,Taqueria la mestiza,portland,or,,,"salads, tacos, mexican, latin american, burritos, tex mex, healthy",Moderately expensive,45.54837,-122.57587,3.0,16.75,8.814024390243903,10.0,1,OR/PORTLAND,82
+1338,3325,3325,11584,Taqueria Rico Taco,portland,or,4.6,78.0,mexican,Moderately expensive,45.521302,-122.4774782,8.5,20.5,12.01,12.75,1,OR/PORTLAND,25
+1351,3342,3342,11606,Poblano Pepper,portland,or,4.6,64.0,"mexican, latin american, new mexican",Inexpensive,45.53392,-122.60129,3.0,12.0,7.958333333333333,8.75,1,OR/PORTLAND,60
+1368,3363,3363,11627,Don Pedro Mexican Restaurant,portland,or,4.7,60.0,"mexican, latin american, new mexican",Inexpensive,45.530567,-122.578775,3.0,19.99,12.3742,12.58,1,OR/PORTLAND,50
+1379,3374,3374,11638,El Indio,portland,or,4.5,61.0,"mexican, latin american, new mexican",Inexpensive,45.5333219,-122.5482171,3.5,33.95,15.87456896551724,14.95,1,OR/PORTLAND,116
+1382,3377,3377,11642,Margarita Factory  Gresham,portland,or,3.9,19.0,"mexican, latin american, new mexican, latin fusion, carniceria, chicken, comfort food, allergy friendly",Inexpensive,45.5004792,-122.4299245,3.25,43.0,14.86341463414634,15.375,1,OR/PORTLAND,82
+1410,3420,3420,11696,Santo Domingo Taqueria,portland,or,4.8,116.0,"mexican, latin american, new mexican",Inexpensive,45.5626,-122.62071,3.0,16.5,9.073076923076924,10.25,1,OR/PORTLAND,65
+1414,3424,3424,11701,Don Pedro Mayor,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.521708,-122.476697,3.5,24.79,10.154492753623188,10.5,1,OR/PORTLAND,69
+1433,3446,3446,11724,Tamale Boy,portland,or,4.9,29.0,"mexican, latin american, new mexican, vegan, vegan friendly, vegetarian, vegetarian friendly, healthy",Inexpensive,45.5407898,-122.673032,3.0,110.0,16.625,7.0,1,OR/PORTLAND,86
+1438,3451,3451,11730,TacoTime,portland,or,4.7,110.0,"mexican, latin american, new mexican",Inexpensive,45.5194558,-122.4753571,3.59,10.99,6.024285714285714,5.59,1,OR/PORTLAND,35
+1442,3466,3466,11747,Taqueria Francisco Mexican Restaurant,portland,or,,,"mexican, latin american, new mexican, burritos, tacos, empanada, sandwiches",Moderately expensive,45.51974,-122.67452,3.0,13.0,8.758620689655173,9.0,1,OR/PORTLAND,29
+1463,3491,3491,11774,El Burrito Azteca,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.56976,-122.68717,3.25,11.5,7.358333333333333,8.25,1,OR/PORTLAND,60
+1464,3492,3492,11775,Caiman Cafe,portland,or,,,"mexican, chicken, sandwich",Inexpensive,45.51381,-122.67647,3.0,13.0,6.70188679245283,4.5,1,OR/PORTLAND,53
+1472,3500,3500,11784,La Tia Juana,portland,or,,,"latin american, mexican, vegetarian, healthy",Inexpensive,45.5207366,-122.4728528,3.5,14.0,7.416666666666667,7.25,1,OR/PORTLAND,12
+1473,3501,3501,11785,En Vida PDX,portland,or,,,"latin american, mexican, vegetarian, healthy",Inexpensive,45.54839,-122.65249,3.0,22.0,11.5,10.5,1,OR/PORTLAND,22
+1475,3503,3503,11787,El Masry Egyptian,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.52301,-122.67343,5.0,12.0,8.87025641025641,10.0,1,OR/PORTLAND,39
+1519,3549,3549,11838,Taco Pedaler,portland,or,4.6,11.0,"mexican, new mexican, tex mex",Inexpensive,45.56235,-122.62061,3.0,60.0,8.520833333333334,5.75,1,OR/PORTLAND,24
+1527,3557,3557,11847,Casa del Sol Mexican Restaurant,portland,or,,,"mexican, new mexican, breakfast and brunch",Inexpensive,45.503853,-122.515457,3.0,13.25,7.571186440677966,6.95,1,OR/PORTLAND,59
+1536,3567,3567,11857,Aprisa Mexican Restaurant,portland,or,,,"mexican, street food, breakfast and brunch, exclusive to eats",Inexpensive,45.5169796,-122.6754515,3.5,8.5,6.958333333333333,8.5,1,OR/PORTLAND,12
+1551,3583,3583,11874,Titos Burritos,portland,or,,,"mexican, latin american, new mexican, breakfast and brunch, burritos",Inexpensive,45.52276,-122.67873,3.3,15.4,8.473529411764707,7.7,1,OR/PORTLAND,34
+1564,3596,3596,11888,La Alegria Restaurant,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.55506,-122.52852,3.0,15.0,6.934285714285714,5.49,1,OR/PORTLAND,28
+1580,3614,3614,11907,Mercado Las Palomas,portland,or,,,"mexican, latin american, new mexican",Moderately expensive,45.51871,-122.52907,3.0,17.0,10.130208333333334,11.5,1,OR/PORTLAND,48
+1588,3625,3625,11918,Cusina Di Francisco,portland,or,,,"mexican, latin american, new mexican",Moderately expensive,45.5262,-122.50111,3.0,16.0,10.60576923076923,12.0,1,OR/PORTLAND,26
+1598,3635,3635,11931,Birrieria Pepe Chile,portland,or,4.3,21.0,"mexican, latin american, new mexican",Inexpensive,45.5526,-122.66642,3.5,12.0,8.25,10.0,1,OR/PORTLAND,16
+1656,3702,3702,12007,Nayar Taqueria,portland,or,4.7,18.0,"mexican, tacos, burritos",Moderately expensive,45.492462,-122.602013,3.0,19.95,9.456640625,9.95,1,OR/PORTLAND,128
+1658,3704,3704,12009,Tropicale,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.526611,-122.641719,3.0,20.0,7.733333333333333,8.0,1,OR/PORTLAND,15
+1663,3709,3709,12014,El Sazon Mexican Food,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.60307,-122.788559,3.49,14.5,8.0572,8.7,1,OR/PORTLAND,25
+1664,3710,3710,12015,Tamale House,portland,or,4.6,38.0,"mexican, tamale, burritos",Moderately expensive,45.5146,-122.66109,3.0,69.99,11.944909090909093,9.5,1,OR/PORTLAND,55
+1668,3715,3715,12022,Nachos House Mexican Kitchen,portland,or,,,"mexican, tacos, burritos",Moderately expensive,45.52411,-122.65097,3.0,13.0,8.2,10.5,1,OR/PORTLAND,65
+1669,3716,3716,12023,El Guero,portland,or,4.4,13.0,"mexican, latin american, new mexican",Inexpensive,45.54077,-122.60954,3.0,14.99,8.911052631578947,10.49,1,OR/PORTLAND,57
+1670,3719,3719,12028,Taqueria Jalisco Express,portland,or,,,"mexican, latin american, new mexican",Moderately expensive,45.55987,-122.55689,3.25,17.9,8.839318181818182,9.875,1,OR/PORTLAND,44
+1678,3730,3730,12043,Little Taco and Tequila,portland,or,,,mexican,Inexpensive,45.5248699,-122.6737165,3.5,11.0,5.727272727272728,4.5,1,OR/PORTLAND,44
+1680,3732,3732,12046,El Burrito Mojado,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.5877464,-122.742347,3.0,16.0,9.04304347826087,10.0,1,OR/PORTLAND,46
+1685,3739,3739,12053,Los Francos,portland,or,4.6,24.0,"burritos, tacos, mexican",Inexpensive,45.51915,-122.53858,3.0,16.0,8.763157894736842,10.0,1,OR/PORTLAND,19
+1686,3741,3741,12055,The Burrito Grill,portland,or,,,"mexican, latin american, new mexican, spanish, latin american",Inexpensive,45.5169612,-122.6753785,3.0,13.0,8.476190476190476,8.5,1,OR/PORTLAND,21
+1687,3742,3742,12056,Koi Fusion,portland,or,,,"korean, mexican, family meals",Moderately expensive,45.5545161,-122.6757467,3.5,32.0,9.682857142857143,10.0,1,OR/PORTLAND,14
+1689,3745,3745,12060,Food Cart at the Oasis,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.46454,-122.65521,3.25,10.0,7.333333333333333,7.125,1,OR/PORTLAND,6
+1690,3746,3746,12061,Cocina Los Girasoles Mexican Food,portland,or,4.8,12.0,"mexican, latin american, new mexican",Inexpensive,45.49364,-122.57921,3.0,14.0,8.315217391304348,10.0,1,OR/PORTLAND,23
+1692,3748,3748,12063,La Costita Express,portland,or,,,mexican,Moderately expensive,45.492119,-122.4883564,3.0,9.95,6.685714285714285,7.1,1,OR/PORTLAND,28
+1695,3751,3751,12067,Carne y Carnes PDX,portland,or,,,"mexican, latin american, steak, healthy, spanish",Moderately expensive,45.5146,-122.66109,3.0,23.0,7.268518518518518,5.75,1,OR/PORTLAND,27
+1701,3759,3759,12078,La Merced,portland,or,,,"mexican, latin american, vegan",Inexpensive,45.511841,-122.6654944,3.5,8.5,7.331081081081081,8.0,1,OR/PORTLAND,37
+1702,3760,3760,12079,Cha Cha Cha,portland,or,4.7,50.0,"mexican, latin american, new mexican",Moderately expensive,45.51231,-122.62862,3.5,18.0,9.458333333333334,9.0,1,OR/PORTLAND,36
+1709,3769,3769,12090,Brunch Box Burritos,portland,or,4.2,80.0,"mexican, latin american, new mexican",Inexpensive,45.53085,-122.68829,3.09,12.59,7.96,8.99,1,OR/PORTLAND,30
+1711,3773,3773,12094,Tierra Del Sol  Montavilla,portland,or,,,"mexican, latin american, new mexican",Moderately expensive,45.52667,-122.59171,3.0,16.5,9.875,9.75,1,OR/PORTLAND,8
+1713,3775,3775,12096,Pedacito De Mexico,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.5627975,-122.6807841,3.5,8.5,6.125,6.25,1,OR/PORTLAND,4
+1714,3776,3776,12097,Charros Street Tacos,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.58287,-122.72426,3.0,10.99,7.605,8.99,1,OR/PORTLAND,22
+1716,3778,3778,12100,Taqueria La Mestiza,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.54837,-122.57587,3.0,16.5,8.121621621621621,9.625,1,OR/PORTLAND,74
+1717,3779,3779,12101,La Puerta Salvadorian Cuisine,portland,or,,,"latin american, mexican, vegetarian",Inexpensive,45.56288,-122.6809,3.0,16.0,6.652173913043479,5.0,1,OR/PORTLAND,23
+1718,3780,3780,12102,Taqueria Villanueva,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.509857,-122.681347,3.0,9.5,7.162162162162162,8.0,1,OR/PORTLAND,37
+1719,3781,3781,12103,Su Casa Taqueria,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.5215031,-122.5794949,3.25,13.98,8.38111111111111,8.75,1,OR/PORTLAND,27
+1722,3784,3784,12107,Cocina Colibri,portland,or,,,mexican,Moderately expensive,45.580918,-122.658973,7.5,10.0,8.857142857142858,9.5,1,OR/PORTLAND,7
+1723,3785,3785,12108,El Pollo Feliz,portland,or,,,"mexican, tacos, burritos",Moderately expensive,45.5778,-122.650148,3.0,42.0,11.350961538461538,10.5,1,OR/PORTLAND,52
+1724,3786,3786,12109,Catalinas,portland,or,,,mexican,Inexpensive,45.562887,-122.660045,3.0,25.0,10.84027777777778,10.5,1,OR/PORTLAND,72
+1725,3787,3787,12110,The Spicy Spoon,portland,or,,,mexican,Moderately expensive,45.54843,-122.675281,3.0,13.0,9.02777777777778,10.0,1,OR/PORTLAND,18
+1726,3788,3788,12111,Wham Bam Burrito,portland,or,,,"mexican, new mexican, snacks",Inexpensive,45.50147,-122.65849,3.0,13.0,9.72222222222222,11.0,1,OR/PORTLAND,18
+1727,3789,3789,12112,Basically Just Burrito Bowls,portland,or,,,"mexican, salads, new mexican",Moderately expensive,45.52565,-122.67759,10.25,12.25,10.875,10.25,1,OR/PORTLAND,12
+1728,3790,3790,12113,El Burrito Borracho,portland,or,,,"mexican, new mexican",Moderately expensive,45.52565,-122.67759,3.5,11.5,8.570714285714285,10.625,1,OR/PORTLAND,14
+1729,3791,3791,12114,Mekatos,portland,or,,,"mexican, empanada",Inexpensive,45.51887,-122.51257,3.5,60.0,11.65157894736842,7.99,1,OR/PORTLAND,19
+1730,3792,3792,12115,Taqueria Antojitos Yucatecos,portland,or,,,mexican,Inexpensive,45.519348,-122.5589114,3.0,13.95,5.71875,3.95,1,OR/PORTLAND,24
+1734,3796,3796,12120,Taco Bout It,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.589942,-122.750522,3.0,12.0,7.5625,8.0,1,OR/PORTLAND,8
+1735,3797,3797,12121,Birrieria PDX,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.50432,-122.492516,3.0,12.0,7.56,6.0,1,OR/PORTLAND,5
+1736,3798,3798,12122,Taco Land,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.522677,-122.673742,3.0,3.0,3.0,3.0,1,OR/PORTLAND,3
+1737,3799,3799,12123,Yucatan Food,portland,or,,,"mexican, yucatecan, american",Moderately expensive,45.5262,-122.50111,3.0,14.0,8.466666666666667,9.0,1,OR/PORTLAND,15
+1738,3800,3800,12125,Villa Hermosa,portland,or,,,"mexican, latin american, new mexican",Inexpensive,45.4685455,-122.5787652,3.0,15.55,8.990149253731344,10.05,1,OR/PORTLAND,67
+1739,3801,3801,12126,Tierra Del Sol  Montavilla,portland,or,,,"tacos, mexican, latin american",Inexpensive,45.52667,-122.59171,3.0,65.0,8.64423076923077,6.5,1,OR/PORTLAND,52
+1740,3802,3802,12127,Pinches Burros,portland,or,4.8,22.0,"mexican, latin american, new mexican",Inexpensive,45.555698,-122.602964,3.0,12.75,7.64375,8.5,1,OR/PORTLAND,40
+1762,4761,4761,14093,De Leons Taco  Bar,spokane,wa,4.6,23.0,"mexican, new mexican",Moderately expensive,47.75063,-117.4102,3.25,30.99,11.422093023255814,10.99,1,WA/SPOKANE,43
+1794,4793,4793,14135,Atilanos Mexican Food,spokane,wa,,,"mexican, latin american, new mexican",Inexpensive,47.65714,-117.3562,3.25,10.99,7.364024390243903,7.35,1,WA/SPOKANE,82
+1796,4795,4795,14138,Burrito House,spokane,wa,4.4,79.0,"mexican, latin american, new mexican",Moderately expensive,47.672118,-117.364577,3.35,18.95,10.276315789473683,9.97,1,WA/SPOKANE,38
+1797,4796,4796,14139,Mi perla tapatia,spokane,wa,,,"mexican, latin american, new mexican, exclusive to eats",Inexpensive,47.702729,-117.411736,3.0,22.99,12.221666666666668,11.5,1,WA/SPOKANE,108
+1823,4822,4822,14173,Atilanos,spokane,wa,4.6,200.0,"mexican, latin american, new mexican, group friendly",Inexpensive,47.7687,-117.40407,3.25,10.99,7.570631578947369,7.35,1,WA/SPOKANE,95
+1835,4834,4834,14188,De Leon Foods,spokane,wa,,,"mexican, vegetarian-friendly, gluten-free friendly",Moderately expensive,47.7145763,-117.4077315,3.49,20.0,8.443333333333333,6.99,1,WA/SPOKANE,45
+1839,4838,4838,14193,Atilanos Mexican Food,spokane,wa,,,"mexican, latin american, new mexican",Inexpensive,47.71527,-117.4233,3.1,9.57,5.3133333333333335,4.99,1,WA/SPOKANE,126
+1869,4868,4868,14229,Borracho Tacos  Tequileria,spokane,wa,3.9,32.0,"mexican, vegetarian-friendly, family friendly",Inexpensive,47.6594433,-117.4114027,3.0,16.0,7.435897435897436,4.5,1,WA/SPOKANE,39
+1929,4928,4928,14311,Maracas,spokane,wa,4.7,75.0,"mexican, latin american, new mexican",Inexpensive,47.67796,-117.40904,3.0,60.0,19.11072463768116,18.99,1,WA/SPOKANE,69
+1933,4932,4932,14318,Jaliscos Mexican Restaurant  Tequileria,spokane,wa,4.5,125.0,"mexican, seafood, traditional american, family friendly",Moderately expensive,47.6285045,-117.3661932,3.25,23.95,12.977777777777778,13.95,1,WA/SPOKANE,153
+1940,4939,4939,14329,Qdoba Mexican Eats,spokane,wa,4.1,104.0,"mexican, bowls, salads",Inexpensive,47.6714399,-117.2404237,3.6,13.15,8.553125,10.95,1,WA/SPOKANE,32
+1966,4965,4965,14374,De Leons Taco  Bar,spokane,wa,4.5,93.0,"mexican, latin american, new mexican, family friendly",Inexpensive,47.6739723,-117.3968878,3.25,17.99,10.218125,10.62,1,WA/SPOKANE,32
+1972,4971,4971,14385,De Leons Taco  Bar,spokane,wa,4.5,63.0,"mexican, latin american, new mexican",Inexpensive,47.6018308,-117.3698628,3.25,17.99,10.24235294117647,10.62,1,WA/SPOKANE,34
+1975,4974,4974,14390,Sweeto Burrito  Nora WA,spokane,wa,4.6,109.0,"american, mexican, new american, tex mex",Inexpensive,47.6742195,-117.4099361,3.0,13.25,8.792682926829269,10.5,1,WA/SPOKANE,41
+1994,4993,4993,14420,Taco Del Mar,spokane,wa,,,mexican,Moderately expensive,47.6592593,-117.4235917,3.0,12.25,8.592592592592593,9.75,1,WA/SPOKANE,27
+2003,5002,5002,14434,Costa Vida Fresh Mexican Grill,spokane,wa,4.5,128.0,"mexican, salads, kids friendly, healthy",Inexpensive,47.7432059,-117.407172,3.79,12.49,7.960500000000001,6.29,1,WA/SPOKANE,20
+2004,5003,5003,14438,Taco Bell,spokane,wa,4.5,182.0,"burritos, fast food, mexican",Inexpensive,47.6568057,-117.2619007,3.11,34.79,10.013764705882352,5.99,1,WA/SPOKANE,85
+2007,5006,5006,14445,Taco Bell,spokane,wa,4.4,147.0,"burritos, fast food, mexican",Inexpensive,47.7178525,-117.4106738,3.11,34.79,10.199135802469137,6.59,1,WA/SPOKANE,81
+2009,5008,5008,14447,Taco Bell,spokane,wa,4.6,200.0,"burritos, fast food, mexican, group friendly",Inexpensive,47.6279975,-117.3668788,3.11,34.79,10.231728395061728,6.59,1,WA/SPOKANE,81
+2016,5015,5015,14458,Chipotle Mexican Grill,spokane,wa,4.6,80.0,"healthy, mexican",Inexpensive,47.7459374,-117.404396,3.15,16.0,7.9,6.55,1,WA/SPOKANE,39
+2039,5038,5038,14488,Chipotle Mexican Grill,spokane,wa,4.6,200.0,"healthy, mexican",Inexpensive,47.665863,-117.4107394,3.15,15.75,7.587499999999999,6.3,1,WA/SPOKANE,36
+2055,5054,5054,14508,Taco Time,spokane,wa,4.1,11.0,"mexican, new mexican",Inexpensive,47.7045829,-117.4105538,3.09,11.29,6.0627272727272725,5.79,1,WA/SPOKANE,44
+2058,5057,5057,14511,Qdoba Mexican Eats,spokane,wa,4.4,200.0,"mexican, bowls, salads",Inexpensive,47.6681053,-117.4108126,3.6,13.4,9.34047619047619,11.45,1,WA/SPOKANE,21
+2070,5069,5069,14523,Pure Gold by Qdoba,spokane,wa,,,"mexican, latin american, new mexican",Inexpensive,47.66793,-117.41078,3.6,13.95,7.847619047619048,6.45,1,WA/SPOKANE,21
+2075,5074,5074,14530,Taco Bell,spokane,wa,4.4,200.0,"burritos, fast food, mexican, group friendly",Inexpensive,47.69581,-117.36559,3.11,34.79,10.22283950617284,6.59,1,WA/SPOKANE,81
+2082,5081,5081,14537,Taco Time,spokane,wa,4.5,43.0,"new mexican, mexican",Inexpensive,47.715762,-117.4326797,3.29,10.99,5.8597777777777775,5.49,1,WA/SPOKANE,45
+2083,5082,5082,14538,tios taqueria,spokane,wa,,,"mexican, new mexican",Inexpensive,47.65888,-117.42252,3.0,70.0,11.5,6.0,1,WA/SPOKANE,20
+2092,5091,5091,14548,Taco Bell,spokane,wa,4.6,190.0,"burritos, fast food, mexican",Inexpensive,47.7165083,-117.43588,3.11,34.79,10.29375,6.890000000000001,1,WA/SPOKANE,80
+2102,6079,6079,16495,Taco Bell,spokane,wa,4.5,200.0,"burritos, fast food, mexican, group friendly",Inexpensive,47.6683265,-117.4261167,3.11,34.79,10.360379746835443,6.59,1,WA/SPOKANE,79
+2104,6081,6081,16499,Taco Time,spokane,wa,4.7,66.0,"new mexican, mexican",Inexpensive,47.653196,-117.416725,3.09,11.29,6.041162790697674,5.59,1,WA/SPOKANE,43
+2107,6084,6084,16503,Qdoba Mexican Eats,spokane,wa,4.5,191.0,"mexican, bowls, salads",Inexpensive,47.6470612,-117.4129354,3.6,13.15,8.8390625,11.2,1,WA/SPOKANE,32
+2111,6088,6088,16512,Pure Gold by Qdoba,spokane,wa,,,"mexican, latin american, new mexican",Inexpensive,47.64697,-117.41283,3.6,13.55,7.485714285714287,5.2,1,WA/SPOKANE,21
+2114,6091,6091,16517,Taco Bell,spokane,wa,4.4,87.0,"burritos, fast food, mexican",Inexpensive,47.6531515,-117.4246562,3.11,34.79,10.227283950617284,6.59,1,WA/SPOKANE,81
+2132,6109,6109,16536,Taco Bell,spokane,wa,4.6,88.0,"burritos, fast food, mexican",Inexpensive,47.7475922,-117.4030206,3.11,34.79,10.425584415584416,6.59,1,WA/SPOKANE,77
+2154,6277,6277,17432,Taco Bell,spokane,wa,4.2,55.0,"burritos, fast food, mexican",Inexpensive,47.64356581133252,-117.5578308833191,3.11,34.79,10.271728395061729,6.59,1,WA/SPOKANE,81
+2162,6375,6375,18827,Rebel Margherita,washington dc,dc,,,"mexican, latin american, new mexican",Moderately expensive,38.9168,-77.02864,8.39,17.07,13.218947368421052,13.44,1,DC/WASHINGTON DC,38
+2278,6522,6522,19014,Mi Casita Bakery and Deli,washington dc,dc,4.6,81.0,"breakfast and brunch, mexican",Inexpensive,38.9326279,-77.0324608,3.0,18.0,8.291208791208792,8.0,1,DC/WASHINGTON DC,91
+2286,6531,6531,19025,California Tortilla,arlington,va,4.9,72.0,"mexican, bowls, tacos, burritos",Inexpensive,38.8918012,-77.0843982,3.23,14.75,9.390454545454546,10.67,1,VA/ARLINGTON,66
+2287,6532,6532,19026,Taco Bamba,arlington,va,4.8,500.0,"mexican, latin american, new mexican",Inexpensive,38.87974,-77.10761,3.0,18.0,5.960843373493976,4.5,1,VA/ARLINGTON,83
+2427,6714,6714,19260,Pasta Glory,arlington,va,4.3,19.0,"pasta, italian, mexican",Inexpensive,38.87991,-77.09016,3.0,16.78,10.732,14.09,1,VA/ARLINGTON,20
+2443,6738,6738,19293,Chevys,arlington,va,4.6,71.0,"mexican, burritos, tacos, quesadillas",Moderately expensive,38.861544,-77.0592299,3.0,58.0,16.27403846153846,16.75,1,VA/ARLINGTON,104
+2459,6757,6757,19321,MI VIDA Wharf,washington dc,dc,4.9,45.0,mexican,Inexpensive,38.8797481,-77.0257819,5.5,36.3,15.522222222222222,15.4,1,DC/WASHINGTON DC,45
+2461,6759,6759,19323,San Antonio Bar  Grill,arlington,va,4.2,12.0,mexican,Moderately expensive,38.8583596,-77.0501339,3.99,22.99,13.299090909090909,11.99,1,VA/ARLINGTON,55
+2474,6779,6779,19347,Abi Azteca,arlington,va,4.7,135.0,"mexican, breakfast and brunch, latin american, exclusive to eats",Inexpensive,38.862792,-77.0882288,3.5,74.95,13.56032258064516,12.95,1,VA/ARLINGTON,124
+2548,6877,6877,19461,Tortas Y Tacos La Chiquita,arlington,va,4.8,500.0,"mexican, family friendly, exclusive to eats, group friendly",Inexpensive,38.86287,-77.087381,3.29,126.5,13.00925925925926,9.75,1,VA/ARLINGTON,216
+2551,6881,6881,19465,District Taco,arlington,va,4.7,246.0,"mexican, vegetarian friendly, healthy",Inexpensive,38.8945645,-77.074119,3.28,16.33,8.873125,6.55,1,VA/ARLINGTON,32
+2560,6892,6892,19480,El Tamarindo,washington dc,dc,4.7,203.0,"latin american, mexican, vegetarian, healthy, family friendly",Inexpensive,38.9171866,-77.0412715,3.25,28.25,11.463606557377048,10.99,1,DC/WASHINGTON DC,61
+2601,6945,6945,19549,El Rinconcito Cafe,washington dc,dc,4.7,71.0,"soup, steak, salads, mexican, burritos, burgers, kids friendly, sandwich, tacos, desserts, salvadorian",Inexpensive,38.90542,-77.0268,3.25,33.6,13.813245033112583,12.95,1,DC/WASHINGTON DC,151
+2616,6966,6966,19576,Taco and Pia,arlington,va,4.5,41.0,"mexican, chicken, allergy friendly",Inexpensive,38.841071,-77.088102,3.75,26.0,8.792857142857143,8.0,1,VA/ARLINGTON,35
+2624,6976,6976,19586,The Well Dressed Burrito,washington dc,dc,4.7,223.0,"mexican, salads, healthy, family meals, allergy friendly",Inexpensive,38.906631,-77.043878,3.49,111.92,21.576258503401363,11.99,1,DC/WASHINGTON DC,147
+2652,7012,7012,19630,Sunny  Fines Breakfast Burritos,washington dc,dc,,,"mexican, breakfast and brunch, burritos, alcohol",Inexpensive,38.91512,-77.03155,3.6,12.0,9.141739130434782,10.95,1,DC/WASHINGTON DC,23
+2659,7023,7023,19645,Oyamel,washington dc,dc,4.7,85.0,"mexican, latin american, alcohol",Moderately expensive,38.8950079,-77.0216875,4.0,100.0,20.71794871794872,12.0,1,DC/WASHINGTON DC,39
+2670,7041,7041,19671,Republic Cantina,washington dc,dc,4.9,320.0,"breakfast and brunch, comfort food, group friendly, tex mex, mexican, alcohol",Inexpensive,38.9074088,-77.0110259,6.0,24.0,11.466666666666669,11.0,1,DC/WASHINGTON DC,15
+2715,7105,7105,19756,Mexicali Blues,arlington,va,4.8,108.0,"mexican, bar food",Moderately expensive,38.88837,-77.093761,3.5,28.5,11.150285714285712,11.0,1,VA/ARLINGTON,70
+2763,7160,7160,19827,Tacos DC,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.91676,-77.0379,4.0,15.0,12.266666666666667,13.0,1,DC/WASHINGTON DC,15
+2764,7161,7161,19829,Guajillo Grill,arlington,va,,,"mexican, latin american, new mexican",Inexpensive,38.8943372,-77.0787304,3.5,24.95,13.566666666666666,13.5,1,VA/ARLINGTON,36
+2765,7162,7162,19830,Pica Taco,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.9077002,-77.0638425,3.0,11.0,6.321428571428571,5.5,1,DC/WASHINGTON DC,49
+2766,7164,7164,19832,Toscanini,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.910518,-77.074319,3.99,10.99,8.35,8.99,1,DC/WASHINGTON DC,19
+2767,7165,7165,19833,Elizabeth Bar  Grill,washington dc,dc,,,"spanish, mexican, new mexican",Moderately expensive,38.9534944,-77.0273151,3.0,30.95,16.26492537313433,13.95,1,DC/WASHINGTON DC,67
+2768,7167,7167,19837,Rebel Taco,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.9167397,-77.0286004,3.45,14.5,6.494230769230769,5.5,1,DC/WASHINGTON DC,26
+2769,7168,7168,19839,Dulcinea Bar and Grill,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.92476,-77.0229,3.0,24.99,11.276428571428571,10.99,1,DC/WASHINGTON DC,84
+2773,7173,7173,19849,El Rey Ballston,arlington,va,4.3,20.0,"mexican, latin american, new mexican",Inexpensive,38.880507,-77.110973,3.0,14.0,6.074074074074074,4.0,1,VA/ARLINGTON,27
+2776,7176,7176,19852,MXDC Cocina Mexicana,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.8977224,-77.0316942,5.0,25.0,13.292682926829269,14.0,1,DC/WASHINGTON DC,41
+2777,7177,7177,19853,El Rancho Migueleo,arlington,va,,,new mexican,Inexpensive,38.8606965,-77.0951719,3.0,39.99,16.640135135135132,16.99,1,VA/ARLINGTON,74
+2778,7178,7178,19854,El Techo,washington dc,dc,4.4,259.0,"mexican, latin american, new mexican, alcohol",Inexpensive,38.91538,-77.0203,3.6,37.89,11.549,11.98,1,DC/WASHINGTON DC,60
+2780,7181,7181,19859,La Union Restaurant,arlington,va,4.8,50.0,"mexican, latin american, new mexican",Moderately expensive,38.876697,-77.1281007,3.0,22.5,12.407432432432431,12.95,1,VA/ARLINGTON,74
+2781,7182,7182,19860,Ritas Tacos,washington dc,dc,4.6,10.0,"mexican, latin american, new mexican",Inexpensive,38.918454,-77.023123,3.5,9.0,5.233333333333333,5.0,1,DC/WASHINGTON DC,15
+2786,7190,7190,19874,El Rey  DC,washington dc,dc,4.5,52.0,"mexican, latin american, new mexican, allergy friendly",Inexpensive,38.9172395,-77.0248234,3.0,15.0,6.0,4.0,1,DC/WASHINGTON DC,23
+2788,7193,7193,19877,Salazar Tacos  Tequila,washington dc,dc,4.8,32.0,"mexican, latin american, new mexican",Moderately expensive,38.91469,-77.03155,3.99,17.99,11.078275862068963,11.99,1,DC/WASHINGTON DC,29
+2794,7202,7202,19889,Don Tito,arlington,va,4.6,22.0,"mexican, latin american, new mexican, alcohol",Inexpensive,38.88666,-77.0963,3.0,26.0,11.893617021276595,12.0,1,VA/ARLINGTON,47
+2795,7203,7203,19890,bartaco,washington dc,dc,4.7,109.0,"mexican, new mexican, tacos, tacos, comfort food",Inexpensive,38.90282,-77.01871,3.0,65.0,10.106172839506174,7.95,1,DC/WASHINGTON DC,81
+2796,7204,7204,19891,dLea,washington dc,dc,5.0,33.0,"mexican, latin american, new mexican, latin fusion, gourmet",Inexpensive,38.90227,-77.0187,8.0,130.0,23.676470588235293,15.5,1,DC/WASHINGTON DC,34
+2798,7207,7207,19895,Corner Taco,washington dc,dc,4.8,216.0,"mexican, latin american, new mexican",Inexpensive,38.906421,-77.04144,3.0,55.0,13.96,15.0,1,DC/WASHINGTON DC,25
+2800,7210,7210,19898,Savage Burrito,arlington,va,4.8,232.0,"mexican, burritos, bowls, salads",Inexpensive,38.88262,-77.11329,4.25,11.0,8.36111111111111,8.25,1,VA/ARLINGTON,45
+2806,7218,7218,19908,District Taco,arlington,va,4.8,71.0,"mexican, latin american, new mexican",Inexpensive,38.8952863,-77.1433225,3.28,16.33,8.873125,6.55,1,VA/ARLINGTON,32
+2809,7223,7223,19917,Kachis Tacos  Cantina,washington dc,dc,4.5,22.0,"mexican, latin american, new mexican",Inexpensive,38.91995,-77.04144,3.0,35.0,10.141515151515152,9.495,1,DC/WASHINGTON DC,66
+2810,7224,7224,19918,Los Chamacos Mexican Restaurant,arlington,va,4.8,429.0,"mexican, latin american, new mexican, group friendly, alcohol",Moderately expensive,38.86308,-77.08731,3.0,99.0,13.431467181467182,10.45,1,VA/ARLINGTON,259
+2811,7225,7225,19920,Uncle Julios Rio Grande Cafe,arlington,va,4.7,224.0,"mexican, latin american, new mexican, family meals, family friendly, group friendly",Inexpensive,38.8825403,-77.1129556,3.11,91.54,19.186666666666667,16.505,1,VA/ARLINGTON,60
+2812,7227,7227,19922,Los Tios Grill,arlington,va,4.6,91.0,"mexican, latin american, new mexican",Inexpensive,38.853396,-77.05391,3.25,65.95,14.76944,14.95,1,VA/ARLINGTON,125
+2813,7228,7228,19923,El Super Pollo,arlington,va,4.8,77.0,"mexican, new mexican, chicken, family meals",Moderately expensive,38.878312,-77.121726,3.25,65.99,16.55787878787879,13.99,1,VA/ARLINGTON,66
+2818,7236,7236,19932,Espita Mezcaleria,washington dc,dc,4.9,28.0,"mexican, latin american, new mexican, alcohol",Inexpensive,38.9069502,-77.0242502,3.75,15.0,9.716666666666669,12.0,1,DC/WASHINGTON DC,15
+2822,7241,7241,19937,Tacombi  Arlington,arlington,va,4.9,106.0,"mexican, latin american, new mexican",Inexpensive,38.8595,-77.04973,3.98,24.0,9.30846153846154,6.99,1,VA/ARLINGTON,39
+2826,7245,7245,19941,Baja Fresh,washington dc,dc,4.7,54.0,"latin american, mexican, new mexican, family meals",Inexpensive,38.90199,-77.04491,3.09,11.99,5.878,5.59,1,DC/WASHINGTON DC,20
+2828,7248,7248,19944,District Taco,washington dc,dc,4.6,206.0,"mexican, latin american, new mexican",Inexpensive,38.8975169,-77.0301837,3.28,16.33,8.873125,6.55,1,DC/WASHINGTON DC,32
+2829,7252,7252,19948,Jaco Juice  Taco Bar,washington dc,dc,4.9,377.0,"breakfast and brunch, mexican, juice and smoothies, new mexican",Moderately expensive,38.911232,-77.0657,3.19,16.39,9.517925925925926,9.49,1,DC/WASHINGTON DC,135
+2830,7254,7254,19950,Mission,washington dc,dc,4.7,34.0,"mexican, latin american, new mexican",Moderately expensive,38.9114802,-77.0451794,3.5,60.0,13.083333333333334,11.5,1,DC/WASHINGTON DC,24
+2831,7255,7255,19951,Chipotle Mexican Grill,washington dc,dc,,,"new mexican, mexican, mexican, latin american, healthy",Inexpensive,38.89505,-77.02651,3.35,17.05,7.819230769230769,5.5,1,DC/WASHINGTON DC,39
+2832,7256,7256,19954,Super  Tacos  Bakery,washington dc,dc,4.8,78.0,"mexican, latin american, new mexican",Inexpensive,38.923519,-77.040861,3.0,38.0,9.79142857142857,9.0,1,DC/WASHINGTON DC,105
+2833,7258,7258,19956,Chaia,washington dc,dc,5.0,66.0,"mexican, latin american, new mexican",Inexpensive,38.9011009,-77.0210282,3.25,13.0,7.580357142857143,5.0,1,DC/WASHINGTON DC,28
+2835,7260,7260,19958,District Taco,washington dc,dc,4.7,270.0,"mexican, latin american, new mexican, group friendly",Inexpensive,38.9059185,-77.0446529,3.28,16.33,8.8471875,6.55,1,DC/WASHINGTON DC,32
+2837,7264,7264,19963,Taco Rock,arlington,va,4.7,133.0,"mexican, latin american, new mexican",Inexpensive,38.89518,-77.07421,3.0,25.0,8.0078125,4.75,1,VA/ARLINGTON,64
+2869,7310,7310,20017,Chipotle Mexican Grill,washington dc,dc,4.7,149.0,"healthy, mexican",Inexpensive,38.9054083,-77.0645361,3.25,17.0,7.97875,6.55,1,DC/WASHINGTON DC,40
+2975,7447,7447,20194,HuevoRito,arlington,va,4.3,19.0,"mexican, burritos, breakfast and brunch",Inexpensive,38.89702539752277,-77.10742481952265,3.0,36.0,9.058823529411764,8.0,1,VA/ARLINGTON,17
+2991,7466,7466,20216,Charga,arlington,va,4.7,44.0,"mediterranean, peruvian, pakistani, mexican, halal, healthy, sandwich, salads",Moderately expensive,38.896697,-77.1323069,3.25,286.0,17.17479674796748,11.7,1,VA/ARLINGTON,123
+3016,7500,7500,20254,Cuba Libre Restaurant  Rum Bar,washington dc,dc,,,"latin american, mexican, vegetarian, healthy",Inexpensive,38.9001482,-77.0236517,4.0,82.0,22.169117647058822,17.25,1,DC/WASHINGTON DC,34
+3033,7519,7519,20277,EATS UNITED,washington dc,dc,,,"pakistani, indian, mexican, halal",Inexpensive,38.894219,-77.021506,3.49,16.49,10.611951219512196,10.99,1,DC/WASHINGTON DC,41
+3151,7661,7661,20450,Qdoba Mexican Eats,washington dc,dc,4.7,230.0,"mexican, bowls, salads",Inexpensive,38.8963688,-77.0264098,3.3,39.6,9.45,3.45,1,DC/WASHINGTON DC,6
+3166,7682,7682,20476,King Burrito,washington dc,dc,3.4,14.0,"mexican, chicken, drinks",Inexpensive,38.93166,-77.02386,3.0,15.0,10.462962962962964,12.0,1,DC/WASHINGTON DC,27
+3203,7727,7727,20531,Sol Mexican Grill,washington dc,dc,4.9,30.0,"family meals, mexican, family friendly",Inexpensive,38.899723,-77.048134,3.0,28.0,7.642857142857143,7.0,1,DC/WASHINGTON DC,21
+3284,7831,7831,20653,El Paso Cafe,arlington,va,,,"mexican, family friendly",Moderately expensive,38.873453,-77.106277,3.39,69.99,15.974235294117646,13.29,1,VA/ARLINGTON,85
+3305,7855,7855,20679,CACTUS CANTINA RESTAURANT,washington dc,dc,,,"mexican, kids friendly, salads, healthy",Moderately expensive,38.9336896,-77.0726461,8.95,11.95,10.75,10.95,1,DC/WASHINGTON DC,5
+3313,7869,7869,20696,Anejo Bar  Grill,washington dc,dc,,,"latin american, mexican, vegetarian, healthy",Inexpensive,38.9389724,-77.0329977,11.95,11.95,11.95,11.95,1,DC/WASHINGTON DC,1
+3343,7907,7907,20746,Wings Express   Tenleytown,washington dc,dc,,,"latin american, mexican, vegetarian, healthy, exclusive to eats",Inexpensive,38.9488421,-77.0797717,7.15,10.0,8.727272727272727,9.15,1,DC/WASHINGTON DC,11
+3345,7909,7909,20750,Catrachitos  Delli,washington dc,dc,,,"latin american, mexican, vegetarian",Inexpensive,38.9287741,-77.0229141,3.0,17.0,7.334999999999999,7.625,1,DC/WASHINGTON DC,20
+3359,7927,7927,20775,Chipotle Mexican Grill,washington dc,dc,4.8,122.0,"healthy, mexican",Inexpensive,38.9030042,-77.0339443,3.35,17.05,8.325000000000001,6.675000000000001,1,DC/WASHINGTON DC,38
+3368,7937,7937,20787,Taco Time FT,washington dc,dc,,,"mexican, exclusive to eats",Moderately expensive,38.96114,-77.02776,3.49,15.99,10.85046511627907,10.99,1,DC/WASHINGTON DC,43
+3376,7945,7945,20801,Taco Bell,arlington,va,4.6,500.0,"burritos, fast food, mexican, group friendly",Inexpensive,38.8428193,-77.1081906,3.35,26.39,9.233285714285715,6.59,1,VA/ARLINGTON,70
+3437,8313,8313,22087,Sol Cantina,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.8999888,-76.9886131,3.0,15.0,12.05,14.0,1,DC/WASHINGTON DC,20
+3455,8332,8332,22645,Little Miner Taco,washington dc,dc,4.6,148.0,"mexican, tacos, exclusive to eats, latin american, latin fusion, new mexican, burritos, vegan, vegan friendly, snacks, pastry, empanada, comfort food, comfort food",Inexpensive,38.90418,-77.00297,12.0,12.0,12.0,12.0,1,DC/WASHINGTON DC,3
+3457,8334,8334,22670,Super Mega Dilla,arlington,va,4.5,30.0,"mexican, tex mex, new american",Inexpensive,38.88205,-77.11005,3.0,12.0,7.35,6.5,1,VA/ARLINGTON,20
+3470,8360,8360,23512,Chipotle Mexican Grill,arlington,va,4.8,249.0,"healthy, mexican",Inexpensive,38.8540285,-77.0491676,3.15,16.0,7.782051282051282,6.3,1,VA/ARLINGTON,39
+3487,9401,9401,26523,Laredo DC,washington dc,dc,4.8,34.0,"mexican, desserts, exclusive to eats",Moderately expensive,38.9359351,-77.0590493,3.99,59.99,16.768155339805823,14.99,1,DC/WASHINGTON DC,103
+3499,9413,9413,26559,Mosaico by Arepa Zone,washington dc,dc,4.8,61.0,"mexican, latin american, south american, venezuelan",Inexpensive,38.908966,-76.99956,3.0,15.25,8.077380952380953,7.0,1,DC/WASHINGTON DC,42
+3518,9432,9432,26659,SOL Mexican Grill,washington dc,dc,4.9,56.0,"mexican, latin american, new mexican",Inexpensive,38.95448,-77.08299,3.0,28.0,8.994782608695653,8.0,1,DC/WASHINGTON DC,23
+3522,9436,9436,26688,District Taco,washington dc,dc,4.8,185.0,"mexican, latin american, new mexican",Inexpensive,38.9499638,-77.0807788,3.28,16.33,8.535428571428572,5.61,1,DC/WASHINGTON DC,35
+3542,9456,9456,26773,Bandit Taco,washington dc,dc,4.8,271.0,"latin american, mexican, family meals",Inexpensive,38.9505534,-77.0800584,3.0,50.0,7.952020202020202,6.0,1,DC/WASHINGTON DC,99
+3562,9477,9477,26931,Guapos Restaurant  Tenleytown Washington DC,washington dc,dc,4.7,226.0,"mexican, latin american, chicken, group friendly",Moderately expensive,38.9484264,-77.0795385,3.25,79.95,15.395408163265309,13.95,1,DC/WASHINGTON DC,98
+3581,9598,9598,27817,El Bebe Tacos and Tequila,washington dc,dc,4.8,336.0,"mexican, latin american, new mexican",Inexpensive,38.87633,-77.00637,3.5,48.0,16.44047619047619,15.0,1,DC/WASHINGTON DC,42
+3622,9641,9641,27888,Chipotle Mexican Grill,arlington,va,4.6,34.0,"mexican, healthy",Inexpensive,38.88742,-77.09439,3.15,16.4,7.492307692307692,5.3,1,VA/ARLINGTON,39
+3641,9691,9691,28492,Paraso,washington dc,dc,5.0,57.0,mexican,Inexpensive,38.8823309,-76.9912625,3.45,36.65,13.144444444444444,11.5,1,DC/WASHINGTON DC,45
+3650,9700,9700,28505,El Centro DF,washington dc,dc,4.7,59.0,"mexican, latin american",Inexpensive,38.9056811,-77.0631681,3.0,120.0,19.261904761904763,15.0,1,DC/WASHINGTON DC,42
+3669,9719,9719,28529,Johnny Pistolas,washington dc,dc,,,"mexican, bar food",Moderately expensive,38.9204939,-77.0416584,3.25,18.0,8.946428571428571,9.0,1,DC/WASHINGTON DC,28
+3707,9757,9757,28571,TaKorean  Navy Yard,washington dc,dc,4.9,138.0,"korean, bbq, mexican, asian, salads, healthy, exclusive to eats",Inexpensive,38.8751906,-77.0003166,4.0,54.0,16.25,11.25,1,DC/WASHINGTON DC,12
+3748,9798,9798,28613,Don Juan Restaurant,washington dc,dc,4.6,45.0,"latin american, mexican, vegetarian",Inexpensive,38.93107,-77.03863,3.35,74.45,16.666477272727274,17.25,1,DC/WASHINGTON DC,88
+3759,9809,9809,28624,Alero Restaurant,washington dc,dc,4.7,57.0,"american, mexican",Moderately expensive,38.9134025,-77.0459914,3.99,63.99,16.097142857142856,13.99,1,DC/WASHINGTON DC,84
+3797,9847,9847,28665,H Street Country Club,washington dc,dc,,,"mexican, tacos, burritos, alcohol, wings, sandwich",Moderately expensive,38.899836,-76.987071,3.0,16.0,9.925925925925926,11.0,1,DC/WASHINGTON DC,27
+3812,9862,9862,28681,Sunny  Fines Breakfast Burritos,washington dc,dc,4.5,82.0,"mexican, breakfast and brunch, burritos, alcohol",Inexpensive,38.88048,-76.99524,3.0,15.6,7.890357142857143,4.78,1,DC/WASHINGTON DC,28
+3816,9866,9866,28685,Big Smileys Breakfast Burritos Georgia Ave NW,washington dc,dc,,,"breakfast and brunch, burritos, mexican, alcohol",Inexpensive,38.93659713608357,-77.02468433204837,4.98,16.0,10.719310344827589,9.98,1,DC/WASHINGTON DC,29
+3818,9868,9868,28687,El Burrito Borracho,washington dc,dc,,,"burritos, mexican, tex mex, alcohol",Inexpensive,38.87738,-76.99469,4.78,13.79,9.957692307692309,11.99,1,DC/WASHINGTON DC,13
+3819,9869,9869,28688,The Nacho Dispensary,washington dc,dc,,,"mexican, snacks, alcohol",Inexpensive,38.87738,-76.99469,3.0,16.2,13.65375,15.54,1,DC/WASHINGTON DC,16
+3820,9870,9870,28689,Mexigogo,washington dc,dc,,,"mexican, new mexican, comfort food, alcohol",Inexpensive,38.87738,-76.99469,3.45,15.18,8.764642857142857,8.965,1,DC/WASHINGTON DC,28
+3821,9871,9871,28690,Haydees Restaurant,washington dc,dc,4.7,54.0,"mexican, wings, alcohol",Moderately expensive,38.9289739,-77.0377106,3.5,31.99,13.547118644067796,11.99,1,DC/WASHINGTON DC,59
+3863,9913,9913,28736,Chupacabra,washington dc,dc,4.6,29.0,"american, mexican, exclusive to eats",Moderately expensive,38.9005086,-76.9939219,3.0,14.0,7.34375,6.5,1,DC/WASHINGTON DC,32
+3866,9916,9916,28740,Pica Taco,washington dc,dc,4.6,14.0,"mexican, latin american, new mexican",Moderately expensive,38.946555,-77.032995,3.75,9.75,7.78125,9.0,1,DC/WASHINGTON DC,8
+3869,9919,9919,28744,El Torogoz Restaurant,washington dc,dc,4.6,35.0,"mexican, latin american, new mexican, family friendly",Inexpensive,38.942742,-77.024896,3.25,35.95,14.100769230769233,14.95,1,DC/WASHINGTON DC,117
+3870,9920,9920,28745,La Bahia Restaurant,washington dc,dc,4.8,18.0,"mexican, latin american, new mexican, allergy friendly",Moderately expensive,38.93126,-77.03811,3.0,22.95,13.42020202020202,14.95,1,DC/WASHINGTON DC,99
+3874,9924,9924,28749,Pica Taco,washington dc,dc,4.8,61.0,"mexican, latin american, new mexican",Inexpensive,38.9263925,-77.0373462,3.75,10.5,7.59375,9.0,1,DC/WASHINGTON DC,8
+3880,9930,9930,28755,El Pulgarcito Restaurant and Bar,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.9546049,-77.0275586,3.0,22.95,11.966,11.95,1,DC/WASHINGTON DC,50
+3881,9931,9931,28758,Bed  Breakfast Burrito Co,washington dc,dc,,,"mexican, latin american, new mexican",Moderately expensive,38.93165,-77.02387,5.39,8.39,6.83,7.19,1,DC/WASHINGTON DC,15
+3882,9932,9932,28759,DC Quesadilla Shop,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.90967748620882,-77.04846158623695,7.99,15.99,11.545555555555556,11.99,1,DC/WASHINGTON DC,18
+3883,9933,9933,28760,Taco City DC,washington dc,dc,4.5,59.0,"mexican, latin american, new mexican",Inexpensive,38.93581,-76.99131,3.0,20.0,8.296875,5.75,1,DC/WASHINGTON DC,48
+3884,9934,9934,28761,District Taco,washington dc,dc,4.7,64.0,"mexican, latin american, new mexican",Inexpensive,38.8852742,-76.9967418,3.28,16.33,8.716060606060607,6.25,1,DC/WASHINGTON DC,33
+3885,9935,9935,28762,Mi Casita,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.96162,-77.02819,3.0,18.0,8.106382978723405,8.0,1,DC/WASHINGTON DC,94
+3886,9936,9936,28763,El Chucho,washington dc,dc,4.9,146.0,"mexican, new mexican, tex mex, latin fusion, latin american, desserts, family meals, exclusive to eats",Inexpensive,38.9310941,-77.0278585,3.0,100.0,11.20735294117647,7.4,1,DC/WASHINGTON DC,34
+3892,9942,9942,28770,Destino,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.90905,-76.99948,4.0,26.0,16.0,16.0,1,DC/WASHINGTON DC,16
+3893,9943,9943,28774,El Camino Restaurant,washington dc,dc,4.9,121.0,"mexican, salads, comfort food, healthy",Inexpensive,38.9152451,-77.0126527,4.0,25.0,11.266666666666667,12.0,1,DC/WASHINGTON DC,45
+3895,9945,9945,28776,Santa Rosa Taqueria,washington dc,dc,4.3,15.0,"mexican, latin american, new mexican, tacos, tacos",Inexpensive,38.8867,-77.00186,3.3,14.0,7.008108108108108,4.0,1,DC/WASHINGTON DC,37
+3897,9947,9947,28778,La Lomita Restaurant,washington dc,dc,4.6,108.0,"mexican, latin american, new mexican",Inexpensive,38.8810783,-76.9867018,4.95,29.95,16.404651162790696,13.95,1,DC/WASHINGTON DC,86
+3899,9949,9949,28780,Taqueria Las Gemelas,washington dc,dc,4.8,115.0,"mexican, latin american, new mexican, alcohol",Inexpensive,38.90905,-76.99948,3.0,13.5,6.887096774193548,5.0,1,DC/WASHINGTON DC,31
+3900,9950,9950,28781,Mission Navy Yard,washington dc,dc,4.7,209.0,"mexican, latin american, new mexican, family friendly",Inexpensive,38.875104,-77.00853,4.0,22.0,11.308888888888887,11.99,1,DC/WASHINGTON DC,27
+3903,9953,9953,28785,Taco Bell,arlington,va,4.7,487.0,"burritos, fast food, mexican",Inexpensive,38.89671534166247,-77.12869577858591,3.11,29.99,10.117857142857142,6.35,1,VA/ARLINGTON,70
+3926,9976,9976,28812,Chipotle Mexican Grill,washington dc,dc,4.7,304.0,"healthy, mexican",Inexpensive,38.9210818,-77.0217863,3.15,16.8,8.198571428571428,6.7,1,DC/WASHINGTON DC,35
+3934,9984,9984,28821,La Molienda Restaurant,washington dc,dc,4.8,25.0,"mexican, coffee and tea, desserts",Moderately expensive,38.936233,-77.033033,3.0,37.99,11.7587012987013,12.5,1,DC/WASHINGTON DC,77
+3961,10011,10011,28851,District Rico,washington dc,dc,4.8,121.0,"latin american, breakfast and brunch, mexican",Inexpensive,38.92081,-76.99345,7.99,7.99,7.99,7.99,1,DC/WASHINGTON DC,2
+4011,10062,10062,28907,Taco City DC,washington dc,dc,4.8,126.0,mexican,Inexpensive,38.8773275,-76.9946942,3.0,20.0,8.454081632653061,5.5,1,DC/WASHINGTON DC,49
+4024,10075,10075,28921,Man vs Fries,arlington,va,4.6,302.0,"mexican, desserts, fast food",Inexpensive,38.88917,-77.09035,3.19,18.5,15.152222222222225,17.5,1,VA/ARLINGTON,18
+4042,10093,10093,28940,Taco Bell,washington dc,dc,4.6,500.0,"burritos, fast food, mexican",Inexpensive,38.92931,-77.03299,3.59,29.99,10.32955223880597,6.23,1,DC/WASHINGTON DC,67
+4083,10134,10134,28986,Los Cuates,washington dc,dc,,,"mexican, desserts, family meals",Moderately expensive,38.9104734,-77.0651425,3.5,49.95,12.899928057553955,13.95,1,DC/WASHINGTON DC,139
+4091,10142,10142,28996,Bandit Taco,washington dc,dc,4.9,500.0,"mexican, family meals, latin american",Inexpensive,38.9167162,-77.0371785,3.0,50.0,8.13888888888889,7.0,1,DC/WASHINGTON DC,90
+4092,10143,10143,28998,La Cabana Restaurante  th St NW Washington DC,washington dc,dc,,,"latin american, mexican, vegetarian, family meals, healthy",Inexpensive,38.9367919,-77.0330768,3.0,16.95,12.37704918032787,12.95,1,DC/WASHINGTON DC,61
+4118,10169,10169,29028,Don Lobos Mexican Grill,washington dc,dc,,,mexican,Moderately expensive,38.9055699,-77.0574215,3.0,22.0,13.536567164179106,14.0,1,DC/WASHINGTON DC,67
+4130,10181,10181,29042,El Amigo CarryOut,washington dc,dc,,,"latin american, mexican, vegetarian, healthy",Inexpensive,38.936707,-77.033018,3.0,15.99,11.067272727272726,12.0,1,DC/WASHINGTON DC,22
+4131,10182,10182,29043,Moes Southwest Grill,washington dc,dc,4.7,249.0,"mexican, tex mex, salads, healthy",Inexpensive,38.9070558,-77.0053496,3.49,53.69,17.98090909090909,9.79,1,DC/WASHINGTON DC,11
+4145,10196,10196,29061,La Lomita Dos,washington dc,dc,4.7,38.0,"mexican, salads, kids friendly, healthy",Inexpensive,38.8872137,-77.0016039,6.0,18.95,12.28701923076923,12.95,1,DC/WASHINGTON DC,104
+4146,10197,10197,29062,California Tortilla,washington dc,dc,,,"mexican, bowls, tacos, burritos, kids friendly, salads",Inexpensive,38.8961115,-77.0427506,3.23,55.14,10.998513513513512,10.67,1,DC/WASHINGTON DC,74
+4151,10202,10202,29069,Judy Restaurant,washington dc,dc,4.8,53.0,"latin american, mexican, salvadorian",Moderately expensive,38.9196632,-77.0322142,3.0,17.5,10.223880597014926,12.0,1,DC/WASHINGTON DC,67
+4158,10209,10209,29080,Ircias Kitchen Restaurant,washington dc,dc,,,"mexican, latin american, new mexican",Inexpensive,38.9343857,-76.9909891,5.0,15.0,10.0,10.0,1,DC/WASHINGTON DC,18
+4159,10210,10210,29081,Panjeros,washington dc,dc,,,"mexican, latin american, new mexican, exclusive to eats",Inexpensive,38.90584,-77.04292,3.0,75.0,10.738095238095235,4.0,1,DC/WASHINGTON DC,21
+4160,10211,10211,29082,Fresca Taqueria Rosticeria,washington dc,dc,,,"mexican, latin american, exclusive to eats",Moderately expensive,38.900057,-76.995971,3.0,22.0,9.548260869565215,9.5,1,DC/WASHINGTON DC,92
+4161,10212,10212,29083,Taco Assembly,washington dc,dc,,,"mexican, latin american, tacos",Moderately expensive,38.90045,-76.99394,3.0,48.0,17.508055555555554,14.4,1,DC/WASHINGTON DC,36
+4162,10213,10213,29084,The House of Pupuseria and Tacos,washington dc,dc,,,"tacos, mexican, latin american",Inexpensive,38.93165,-77.02387,3.0,20.0,8.068181818181818,4.5,1,DC/WASHINGTON DC,22
+4163,10214,10214,29085,Arepa Zone,washington dc,dc,4.8,53.0,"latin american, mexican, vegetarian",Inexpensive,38.90059,-77.04503,3.0,16.5,9.278169014084508,8.75,1,DC/WASHINGTON DC,71
+4169,10220,10220,29093,Chipotle Mexican Grill,arlington,va,4.6,210.0,"healthy, mexican",Inexpensive,38.8798092,-77.1123036,3.15,16.4,7.961842105263158,6.425,1,VA/ARLINGTON,38
+4172,10223,10223,29098,Birria Hands,washington dc,dc,4.5,64.0,"mexican, tacos",Inexpensive,38.90045,-76.99394,3.0,14.38,6.3741666666666665,5.52,1,DC/WASHINGTON DC,24
+4173,10224,10224,29099,My Canton Restaurant,washington dc,dc,,,"seafood, salads, mexican, healthy",Moderately expensive,38.9234005,-77.0411838,3.0,18.99,13.770208333333334,14.99,1,DC/WASHINGTON DC,48
+4183,10234,10234,29111,Los Cuates,washington dc,dc,4.2,43.0,mexican,Moderately expensive,38.921275,-77.041916,4.95,67.95,16.735714285714284,15.45,1,DC/WASHINGTON DC,42
+4242,10311,10311,29618,HuevoRito,salt lake city,ut,,,"mexican, burritos, breakfast and brunch",Inexpensive,40.74687,-111.89191,3.0,30.0,8.3125,7.0,1,UT/SALT LAKE CITY,16
+4245,10314,10314,29621,Tacos Garay,salt lake city,ut,,,"mexican, seafood, tacos",Moderately expensive,40.74958,-111.89912,3.99,22.99,10.122075471698114,9.99,1,UT/SALT LAKE CITY,53
+4262,10331,10331,29643,El Chihuahua,salt lake city,ut,4.7,78.0,"mexican, family meals",Moderately expensive,40.6863622,-111.8454225,3.0,23.0,13.103174603174605,14.5,1,UT/SALT LAKE CITY,63
+4267,10336,10336,29650,Cancun Cafe,salt lake city,ut,,,"mexican, new mexican",Moderately expensive,40.7652857,-111.8872675,3.0,29.99,11.942307692307692,11.99,1,UT/SALT LAKE CITY,52
+4278,10347,10347,29664,La estacin del taco,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.7664864,-111.8908604,7.8,9.1,8.45,8.45,1,UT/SALT LAKE CITY,4
+4281,10350,10350,29668,Santo Taco,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.78958,-111.91588,3.0,9.5,6.66,6.99,1,UT/SALT LAKE CITY,48
+4282,10351,10351,29669,El Paisa Mariscos Y Tacos,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.7499884,-111.8884946,3.38,16.9,8.672105263157894,8.45,1,UT/SALT LAKE CITY,19
+4288,10357,10357,29681,Taco Taco,salt lake city,ut,,,"mexican, latin american, new mexican",Moderately expensive,40.75827,-111.88494,3.0,12.0,7.755681818181818,9.0,1,UT/SALT LAKE CITY,44
+4289,10358,10358,29682,TACOS Y MARISCOS EL PATRON LLC,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.734139833351904,-111.89095172023774,3.5,13.99,7.766739130434782,8.0,1,UT/SALT LAKE CITY,46
+4291,10360,10360,29685,Mi Lindo Nayarit,salt lake city,ut,,,"mexican, latin american, new mexican, exclusive to eats",Inexpensive,40.74224857871194,-111.88705321401358,3.0,18.0,12.720338983050848,15.0,1,UT/SALT LAKE CITY,59
+4292,10361,10361,29689,Argentinas Best Empanadas,salt lake city,ut,,,"latin american, mexican, vegetarian",Inexpensive,40.76123,-111.8851,3.0,15.0,4.852941176470588,3.0,1,UT/SALT LAKE CITY,17
+4294,10363,10363,29691,La Fountain Mexican Restaurant,salt lake city,ut,4.5,75.0,"mexican, latin american, new mexican",Inexpensive,40.7,-111.83446,3.59,17.99,10.149038461538462,9.99,1,UT/SALT LAKE CITY,104
+4298,10367,10367,29699,Rancho Markets Kitchen,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.7724,-111.91585,3.97,39.97,12.97,10.97,1,UT/SALT LAKE CITY,14
+4303,10372,10372,29707,MAIZE TACOS,salt lake city,ut,,,"mexican, latin american, new mexican",Moderately expensive,40.76622,-111.88962,3.0,16.75,9.162222222222224,10.5,1,UT/SALT LAKE CITY,45
+4304,10373,10373,29710,Drip Tacos,salt lake city,ut,4.8,23.0,"mexican, latin american, new mexican",Inexpensive,40.7724,-111.91585,3.0,15.0,7.077647058823529,4.97,1,UT/SALT LAKE CITY,17
+4306,10375,10375,29712,Victors Restaurant,salt lake city,ut,4.5,17.0,"mexican, latin american, seafood",Inexpensive,40.7393473,-111.9113374,3.25,22.5,9.975254237288135,8.95,1,UT/SALT LAKE CITY,59
+4309,10378,10378,29716,Chungas,salt lake city,ut,4.8,37.0,"mexican, latin american, new mexican",Inexpensive,40.7288961,-111.9386365,4.5,10.99,7.190526315789474,8.0,1,UT/SALT LAKE CITY,38
+4324,10393,10393,29741,Taco Bell,salt lake city,ut,4.6,100.0,"burritos, fast food, mexican, group friendly",Inexpensive,40.7609745,-111.8730827,3.35,28.79,9.68485294117647,6.95,1,UT/SALT LAKE CITY,68
+4325,10394,10394,29742,Betos Mexican Restaurant,salt lake city,ut,4.4,100.0,"mexican, latin american, new mexican, group friendly",Moderately expensive,40.73701,-111.88793,3.29,24.99,10.052583333333333,10.59,1,UT/SALT LAKE CITY,120
+4326,10395,10395,29743,Del Taco,salt lake city,ut,4.5,100.0,"fast food, mexican, tacos, group friendly",Inexpensive,40.7609856,-111.8678351,3.05,22.05,8.133720930232558,7.35,1,UT/SALT LAKE CITY,86
+4333,10402,10402,29752,East Liberty Tap House,salt lake city,ut,,,"burgers, mexican, tacos",Inexpensive,40.74956,-111.86656,3.0,14.5,8.071428571428571,7.75,1,UT/SALT LAKE CITY,28
+4341,10410,10410,29763,Fire Tacos,salt lake city,ut,,,"mexican, new mexican, latin american",Moderately expensive,40.76359,-111.88872,3.36,22.28,9.9635,9.44,1,UT/SALT LAKE CITY,60
+4374,10443,10443,29807,Sabor Latino,salt lake city,ut,4.9,54.0,"latin american, mexican, vegetarian, healthy",Inexpensive,40.77157,-111.9523,3.49,24.99,10.78776,10.99,1,UT/SALT LAKE CITY,125
+4408,10477,10477,29855,El Pollo Loco,salt lake city,ut,4.7,100.0,"latin american, mexican, new american, family meals, family friendly",Inexpensive,40.7443,-111.9000692,3.29,52.99,13.26906976744186,10.99,1,UT/SALT LAKE CITY,43
+4425,10494,10494,29879,Taco Time,salt lake city,ut,4.7,60.0,"mexican, salads, kids friendly, healthy",Inexpensive,40.751449,-111.888749,3.74,13.11,6.335500000000001,5.45,1,UT/SALT LAKE CITY,40
+4461,10530,10530,29936,Cafe Guanaco,salt lake city,ut,,,"mexican, chicken, comfort food",Inexpensive,40.73786,-111.88851,3.0,15.0,7.039473684210527,4.0,1,UT/SALT LAKE CITY,38
+4480,10549,10549,29968,Costa Vida,salt lake city,ut,4.2,35.0,"mexican, new mexican, comfort food",Inexpensive,40.76601,-111.90363,3.49,10.69,6.956666666666667,5.69,1,UT/SALT LAKE CITY,21
+4488,10557,10557,29980,Betos Mexican Restaurant,salt lake city,ut,4.4,100.0,"mexican, new mexican, comfort food",Inexpensive,40.7016,-111.938484,3.49,11.99,7.6481818181818175,7.99,1,UT/SALT LAKE CITY,110
+4499,10568,10568,30004,Costa Vida,salt lake city,ut,4.4,40.0,"mexican, new mexican",Inexpensive,40.76914,-111.88913,3.0,10.69,6.64695652173913,5.69,1,UT/SALT LAKE CITY,23
+4500,10569,10569,30007,Yoyis Mexican Grill,salt lake city,ut,,,mexican,Inexpensive,40.742004,-111.8597633,3.25,8.49,5.46875,5.09,1,UT/SALT LAKE CITY,16
+4508,10577,10577,30018,Barbacoa Mexican Grill,salt lake city,ut,5.0,27.0,"mexican, tex mex",Inexpensive,40.750102,-111.86619,3.99,8.49,6.384736842105263,4.99,1,UT/SALT LAKE CITY,19
+4509,10578,10578,30019,Santo Taco,salt lake city,ut,,,mexican,Inexpensive,40.7890863,-111.9162648,7.49,9.5,9.098,9.5,1,UT/SALT LAKE CITY,5
+4515,10584,10584,30030,Cafe Rio,salt lake city,ut,4.6,100.0,"kids friendly, mexican, tex mex",Inexpensive,40.72566,-111.85588,4.69,13.09,9.425,11.09,1,UT/SALT LAKE CITY,20
+4522,10591,10591,30380,Fiesta Ole,salt lake city,ut,,,"mexican, new mexican, tacos",Inexpensive,40.65306,-111.98908,3.09,30.99,7.925211267605634,7.19,1,UT/SALT LAKE CITY,71
+4538,10607,10607,30448,Taco Time,salt lake city,ut,,,mexican,Inexpensive,40.68677,-111.888,3.29,8.99,5.491666666666667,4.99,1,UT/SALT LAKE CITY,36
+4549,10618,10618,30536,Marias Mexican Grill,salt lake city,ut,4.5,15.0,"mexican, latin american, new mexican",Moderately expensive,40.698994,-111.824844,3.99,36.99,13.84558282208589,13.99,1,UT/SALT LAKE CITY,163
+4554,10623,10623,30553,Taqueria El Gallo Loco,salt lake city,ut,,,"mexican, seafood, breakfast and brunch",Moderately expensive,40.69753,-111.94195,3.5,35.99,12.03940594059406,10.99,1,UT/SALT LAKE CITY,101
+4558,10627,10627,30587,Creamr,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.69893,-111.86635,9.99,9.99,9.99,9.99,1,UT/SALT LAKE CITY,4
+4560,10629,10629,30605,Pacos,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.69753,-111.94195,3.85,17.05,7.8521052631578945,6.6,1,UT/SALT LAKE CITY,38
+4563,10632,10632,30611,Yo Salsa,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.69753,-111.94195,3.85,39.59,12.955060240963856,11.55,1,UT/SALT LAKE CITY,83
+4564,10633,10633,30617,Rancho Markets Kitchen,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.69893,-111.86635,3.97,39.97,13.827142857142858,11.97,1,UT/SALT LAKE CITY,14
+4565,10634,10634,30625,Marias Mexican Restaurant,salt lake city,ut,3.9,29.0,"mexican, latin american, new mexican",Moderately expensive,40.6533,-111.94086,3.25,43.99,13.264846153846154,13.75,1,UT/SALT LAKE CITY,130
+4566,10635,10635,30630,Drip Tacos,salt lake city,ut,4.2,26.0,"mexican, latin american, new mexican",Inexpensive,40.69893,-111.86635,3.0,15.0,7.865625,4.984999999999999,1,UT/SALT LAKE CITY,16
+4569,10638,10638,30642,Cancun Cafe,salt lake city,ut,4.2,19.0,"mexican, latin american, new mexican",Inexpensive,40.62518,-111.83744,3.0,29.99,11.644423076923076,11.99,1,UT/SALT LAKE CITY,52
+4572,10641,10641,30658,Just Juice,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.69753,-111.94195,5.23,7.15,6.510000000000001,7.15,1,UT/SALT LAKE CITY,3
+4573,10642,10642,30660,Sunnyside,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.69753,-111.94195,6.05,14.85,10.816666666666666,11.0,1,UT/SALT LAKE CITY,18
+4574,10643,10643,30662,Bigote,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.69753,-111.94195,3.85,17.05,9.13030303030303,8.8,1,UT/SALT LAKE CITY,33
+4575,10644,10644,30663,Puertos,salt lake city,ut,,,"mexican, latin american, new mexican",Inexpensive,40.69753,-111.94195,3.85,25.3,10.465714285714286,11.55,1,UT/SALT LAKE CITY,35
+4582,10651,10651,30770,La Tenoch Mexican Food,salt lake city,ut,4.1,43.0,mexican,Inexpensive,40.6993642,-111.8858948,3.99,14.99,10.401935483870966,10.99,1,UT/SALT LAKE CITY,62
+4584,10653,10653,30787,South City Tacos,salt lake city,ut,4.8,100.0,"mexican, tex mex, latin american, exclusive to eats",Inexpensive,40.6995298,-111.88579,3.99,34.99,12.372698412698414,9.49,1,UT/SALT LAKE CITY,63
+4602,10671,10671,30971,Los Machetes,salt lake city,ut,3.9,16.0,"mexican, breakfast and brunch, new mexican",Inexpensive,40.66876,-111.95542,3.0,13.99,7.642162162162162,7.99,1,UT/SALT LAKE CITY,37
+4610,10679,10679,31039,Chipotle Mexican Grill,salt lake city,ut,4.7,100.0,"healthy, mexican",Inexpensive,40.7256694,-111.8620262,3.0,15.15,7.532894736842105,7.35,1,UT/SALT LAKE CITY,38
+4611,10680,10680,31052,Taqueria Los Lee,salt lake city,ut,,,"mexican, tacos",Inexpensive,40.7134,-111.87175,3.99,11.99,9.156666666666666,8.99,1,UT/SALT LAKE CITY,12
+4622,10691,10691,31709,Chipotle Mexican Grill,salt lake city,ut,4.4,100.0,"healthy, mexican",Inexpensive,40.7602558,-111.8694831,3.15,15.75,7.64375,6.375,1,UT/SALT LAKE CITY,40
+4628,10697,10697,31718,Las Cazuelas,salt lake city,ut,,,"mexican, latin american, new mexican",Moderately expensive,40.6605349,-111.9405205,3.5,8.5,6.995,7.99,1,UT/SALT LAKE CITY,4
+4629,10698,10698,31720,Don pollo,salt lake city,ut,,,"mexican, latin american, new mexican",Moderately expensive,40.67422,-111.91393,3.5,11.5,7.795333333333334,6.5,1,UT/SALT LAKE CITY,15
+4645,10714,10714,31765,Del Taco,salt lake city,ut,4.6,100.0,"fast food, mexican, tacos",Inexpensive,40.7257133,-111.8900589,3.05,22.05,8.09390243902439,7.35,1,UT/SALT LAKE CITY,82
+4680,10749,10749,31893,Chungas,salt lake city,ut,4.9,16.0,"mexican, comfort food, new mexican",Inexpensive,40.76535,-111.91735,4.5,10.99,7.210625,8.0,1,UT/SALT LAKE CITY,32
+4684,10753,10753,31899,Taco Bell,salt lake city,ut,4.3,100.0,"burritos, fast food, mexican",Inexpensive,40.7226979,-111.8541894,3.35,28.79,9.803692307692309,6.95,1,UT/SALT LAKE CITY,65
+4688,10757,10757,31906,Barbacoa Mexican Grill,salt lake city,ut,4.8,13.0,"mexican, tex mex",Inexpensive,40.6859759,-111.795629,3.99,8.49,6.295555555555556,4.99,1,UT/SALT LAKE CITY,18
+4691,10760,10760,31909,Costa Vida,salt lake city,ut,4.5,51.0,"mexican, desserts, salads",Inexpensive,40.73937,-111.82539,3.0,10.69,6.64695652173913,5.69,1,UT/SALT LAKE CITY,23
+4704,10773,10773,31939,Del Taco,salt lake city,ut,4.7,100.0,"fast food, mexican, tacos",Inexpensive,40.7282978,-111.9685306,3.05,22.05,8.190697674418605,7.475,1,UT/SALT LAKE CITY,86
+4708,10777,10777,32309,Cafe Rio,salt lake city,ut,4.6,100.0,"kids friendly, mexican, tex mex",Inexpensive,40.7603241,-111.8756209,4.69,13.09,9.48,11.09,1,UT/SALT LAKE CITY,20
+4710,10779,10779,32313,Taco Bell,salt lake city,ut,4.3,100.0,"burritos, fast food, mexican",Inexpensive,40.7720006,-111.9410217,3.35,28.79,9.667205882352942,6.95,1,UT/SALT LAKE CITY,68
+4711,10780,10780,32321,Taco Bell,salt lake city,ut,4.4,100.0,"burritos, fast food, mexican",Inexpensive,40.699382,-111.89093,3.35,28.79,9.667205882352942,6.95,1,UT/SALT LAKE CITY,68
+4716,10785,10785,32336,Taco Bell,salt lake city,ut,4.7,53.0,"burritos, fast food, mexican",Inexpensive,40.652761,-111.967026,3.11,25.19,7.909178082191781,5.51,1,UT/SALT LAKE CITY,73
+4718,10787,10787,32345,Tekila Mexican Grill and Cantina,salt lake city,ut,4.5,48.0,"mexican, gluten free friendly, vegan friendly",Moderately expensive,40.64182,-111.49498,5.0,35.5,15.0,14.5,1,UT/SALT LAKE CITY,49
+4721,10790,10790,32350,El Chubasco,salt lake city,ut,4.4,16.0,"mexican, latin american, new mexican",Inexpensive,40.66145297685168,-111.4994265715188,3.45,22.5,8.525862068965518,8.5,1,UT/SALT LAKE CITY,58
+4722,10791,10791,32352,Tarahumara,salt lake city,ut,4.3,50.0,"mexican, latin american, new mexican",Moderately expensive,40.66187,-111.50764,3.29,17.99,12.331304347826087,13.99,1,UT/SALT LAKE CITY,92
+4725,10794,10794,32359,Del Taco,salt lake city,ut,4.7,32.0,"mexican, burgers, salads",Inexpensive,40.724055,-111.5439976,3.05,22.05,7.9515625,7.275,1,UT/SALT LAKE CITY,96
+4735,10804,10804,32488,Cafe Rio,salt lake city,ut,4.7,94.0,"kids friendly, mexican, tex mex",Inexpensive,40.70018,-111.80277,4.69,13.09,9.345,10.39,1,UT/SALT LAKE CITY,20
+4742,10811,10811,32498,The Moose Cafe,salt lake city,ut,4.4,17.0,"mexican, latin american, drinks",Moderately expensive,40.75185,-111.6156,3.0,18.0,11.966666666666669,13.0,1,UT/SALT LAKE CITY,30
+4747,10816,10816,32504,Taco Bell,salt lake city,ut,4.5,100.0,"burritos, fast food, mexican",Inexpensive,40.624072,-111.835373,3.35,28.79,9.49625,6.59,1,UT/SALT LAKE CITY,72
+4790,14424,14424,39484,Amanecer Coffee Shop  Bakery,austin,tx,,,"bakery, mexican",Inexpensive,30.4215614,-97.6710409,3.0,12.5,6.2788,6.5,1,TX/AUSTIN,25
+4813,14447,14447,39509,Serranos,austin,tx,4.8,156.0,"mexican, tex mex, breakfast and brunch",Moderately expensive,30.2361502,-97.82181,3.6,26.4,14.60816326530612,14.4,1,TX/AUSTIN,49
+4836,14470,14470,39533,La China ATX,austin,tx,,,"mexican, latin american, new mexican",Inexpensive,30.15489,-97.72138,3.0,9.0,4.47,3.5,1,TX/AUSTIN,17
+4843,14477,14477,39540,oos Tacos,austin,tx,4.6,26.0,"mexican, sandwich, burgers",Inexpensive,30.3480073,-97.7033294,3.0,20.6,7.442142857142857,7.48,1,TX/AUSTIN,28
+4845,14479,14479,39543,Brazas Taco House,austin,tx,4.9,76.0,"mexican, tex mex, family meals",Inexpensive,30.334028,-97.716468,3.0,10.5,4.461489361702127,3.5,1,TX/AUSTIN,47
+4847,14481,14481,39545,Breakfast in Bed,austin,tx,4.1,20.0,"breakfast and brunch, burritos, sandwiches, american, mexican, comfort food",Moderately expensive,30.41565,-97.67366,3.5,14.5,8.68421052631579,8.5,1,TX/AUSTIN,19
+4854,14488,14488,39552,Con Madre Kitchen,austin,tx,4.4,112.0,"mexican, breakfast and brunch, tacos, burritos, local specialities",Inexpensive,30.2371378,-97.7489249,3.0,19.99,9.830769230769231,5.995,1,TX/AUSTIN,52
+4855,14489,14489,39553,Tacos TJ,austin,tx,4.2,25.0,"mexican, latin american, new mexican",Inexpensive,30.294381,-97.719304,3.0,8.25,6.4375,8.25,1,TX/AUSTIN,20
+4856,14490,14490,39554,Pacos Tacos,austin,tx,,,"mexican, latin american, new mexican",Moderately expensive,30.3075,-97.70581,3.85,12.4,8.9625,9.2,1,TX/AUSTIN,32
+4865,14499,14499,39566,Tacoly Moly,austin,tx,,,"mexican, latin american, new mexican",Inexpensive,30.250835,-97.754249,3.25,11.15,5.661428571428572,4.45,1,TX/AUSTIN,35
+4868,14502,14502,39569,Taco Cabana,austin,tx,4.7,48.0,"mexican, tex mex, breakfast and brunch, family meals",Inexpensive,30.2198802,-97.835562,3.09,49.59,10.1446875,6.390000000000001,1,TX/AUSTIN,64
+4869,14503,14503,39571,Taqueria Chapala,austin,tx,4.8,91.0,"mexican, tacos, desserts",Moderately expensive,30.23574,-97.85477,3.79,11.99,8.560384615384615,9.74,1,TX/AUSTIN,26
+4872,14506,14506,39574,oos Tacos,austin,tx,4.8,119.0,"mexican, burgers, sandwich",Inexpensive,30.3697669,-97.7152305,3.49,6.95,5.758181818181819,5.970000000000001,1,TX/AUSTIN,22
+4885,14519,14519,39588,Daydream Breakfast Burritos,austin,tx,,,"mexican, burritos, breakfast and brunch",Inexpensive,30.26759,-97.74299,3.0,15.6,9.180384615384614,10.2,1,TX/AUSTIN,26
+4887,14521,14521,39590,Breakfast Town,austin,tx,4.9,12.0,"breakfast and brunch, burritos, sandwiches, american, mexican, comfort food",Moderately expensive,30.29439,-97.7193,3.5,11.0,8.0,8.75,1,TX/AUSTIN,18
+4888,14522,14522,39591,Kesos Tacos,austin,tx,4.7,199.0,"mexican, tex mex, new mexican, breakfast and brunch, family meals",Inexpensive,30.282642,-97.744444,3.25,49.0,7.043396226415094,5.25,1,TX/AUSTIN,53
+4934,14568,14568,39642,Morales Ltexmex food,austin,tx,,,"tex mex, new mexican, allergy friendly, asian, asian fusion",Moderately expensive,30.2905239,-97.7446904,3.0,10.0,7.880434782608695,9.0,1,TX/AUSTIN,23
+5009,14643,14643,39726,Mesa Rosa Mexican Restaurant,austin,tx,,,"mexican, new mexican, tex mex",Moderately expensive,30.48383,-97.73582,3.99,19.99,10.894395604395603,10.99,1,TX/AUSTIN,91
+5010,14644,14644,39727,Daves Tacos,austin,tx,4.9,88.0,"mexican, allergy friendly",Inexpensive,30.1536253,-97.8338615,3.0,18.5,8.948666666666666,7.5,1,TX/AUSTIN,75
+5018,14652,14652,39738,El Faro Mexican Food,austin,tx,,,"mexican, latin american, new mexican",Inexpensive,30.43535,-97.67437,3.0,14.99,8.819791666666667,8.99,1,TX/AUSTIN,48
+5056,14690,14690,39781,Cafe Hornitos,austin,tx,,,"mexican, latin american, new mexican",Moderately expensive,30.294182,-97.72047,3.99,23.99,8.753188405797102,8.99,1,TX/AUSTIN,69
+5077,14711,14711,39804,One Taco,austin,tx,4.7,136.0,"tacos, mexican, wings",Inexpensive,30.46184,-97.81461,3.15,10.0,5.786274509803922,5.25,1,TX/AUSTIN,51
+5084,14718,14718,39811,TACO MARGARITA,austin,tx,,,"mexican, latin american, new mexican",Inexpensive,30.21103,-97.9686,3.0,16.99,9.336078431372547,7.99,1,TX/AUSTIN,51
+5090,14724,14724,39817,El Huarache,austin,tx,4.8,107.0,mexican,Moderately expensive,30.4362035,-97.6846348,3.0,15.0,9.402432432432432,10.225,1,TX/AUSTIN,74
+5091,14725,14725,39818,One Taco,austin,tx,4.7,217.0,"mexican, tex mex, breakfast and brunch, wings",Inexpensive,30.4255361,-97.7537757,3.15,10.0,5.786274509803922,5.25,1,TX/AUSTIN,51
+5098,14732,14732,39828,Taco Flats,austin,tx,4.8,68.0,"breakfast and brunch, mexican, tex mex",Inexpensive,30.3308594,-97.7402963,4.0,18.0,8.604166666666666,7.25,1,TX/AUSTIN,72
+5113,14747,14747,39844,Marianas Kitchen,austin,tx,4.7,155.0,mexican,Inexpensive,30.2005754,-97.763549,3.0,15.99,8.577802197802198,8.99,1,TX/AUSTIN,91
+5115,14749,14749,39846,El Secreto De La Abuela,austin,tx,4.6,72.0,"mexican, salads, comfort food",Moderately expensive,30.21554,-97.79972,3.25,26.99,10.21765306122449,10.99,1,TX/AUSTIN,98
+5120,14754,14754,39851,ZIKI,austin,tx,4.7,436.0,"greek, mexican, mediterranean",Moderately expensive,30.24243,-97.75272,3.0,15.0,9.764705882352942,11.5,1,TX/AUSTIN,34
+5139,14773,14773,39872,Aleidas Restaurant,austin,tx,,,"mexican, latin american, new mexican, tacos, burritos",Inexpensive,30.479957671126574,-97.82890677452087,8.5,24.25,17.052941176470586,17.0,1,TX/AUSTIN,17
+5146,14780,14780,39879,Las Palomas Restaurant  Bar,austin,tx,4.4,44.0,"mexican, salads, new mexican, family meals, healthy",Moderately expensive,30.2719245,-97.8001535,3.0,55.0,13.511904761904765,13.0,1,TX/AUSTIN,84
+5151,14785,14785,39884,Burros Breakfast Burritos,austin,tx,4.4,92.0,"breakfast and brunch, burritos, american, mexican, comfort food, family friendly",Moderately expensive,30.411498669925333,-97.67588087576218,3.5,14.25,9.264705882352942,8.0,1,TX/AUSTIN,17
+5152,14786,14786,39885,Top Taco,austin,tx,,,"mexican, latin american, new mexican, breakfast and brunch",Inexpensive,30.4437682,-97.8324889,3.25,23.4,5.555789473684211,3.25,1,TX/AUSTIN,19
+5159,14793,14793,39892,Con Madre Kitchen,austin,tx,4.5,101.0,"mexican, burritos, tacos",Inexpensive,30.19537,-97.84385,3.0,19.99,10.478599999999998,6.99,1,TX/AUSTIN,50
+5160,14794,14794,39893,Oye Taquito,austin,tx,4.9,41.0,"mexican, latin american, new mexican",Inexpensive,30.25794,-97.72603,3.0,13.0,7.892857142857143,8.0,1,TX/AUSTIN,14
+5167,14801,14801,39900,Toyloco,austin,tx,4.6,140.0,"black-owned, mexican, latin american, new mexican",Inexpensive,30.2603876,-97.7120942,3.0,12.99,7.282173913043478,8.0,1,TX/AUSTIN,23
+5175,14809,14809,39910,TacoXpress,austin,tx,4.9,46.0,"mexican, tacos, latin american, burritos, comfort food",Inexpensive,30.24588,-97.77834,3.6,13.85,7.286842105263157,5.6,1,TX/AUSTIN,38
+5183,14817,14817,39919,Tacodeli,austin,tx,4.8,291.0,"mexican, latin american, new mexican, tacos, tacos, breakfast and brunch, tex mex, family friendly, family meals, gluten free, kids friendly, snacks, sopas e caldos, vegan, vegetarian",Inexpensive,30.26529,-97.74362,3.2,9.15,4.568181818181818,4.05,1,TX/AUSTIN,22
+5192,14826,14826,39932,Tortilleria La Sabrocita,austin,tx,4.6,58.0,"mexican, latin american, new mexican",Inexpensive,30.3571065,-97.6855542,3.19,24.99,12.70448275862069,13.99,1,TX/AUSTIN,29
+5193,14827,14827,39933,Taqueria La Montaa,austin,tx,4.3,48.0,"mexican, new mexican, tacos",Inexpensive,30.376897,-97.677491,3.15,30.0,9.160204081632653,7.0,1,TX/AUSTIN,49
+5196,14830,14830,39936,Los Potrillos,austin,tx,4.7,33.0,"mexican, latin american, new mexican, tex mex, soup, seafood, steak",Moderately expensive,30.35685,-97.68994,3.49,39.99,14.242736842105264,12.99,1,TX/AUSTIN,95
+5198,14832,14832,39940,Sabor  Honduras,austin,tx,4.5,20.0,"latin american, mexican, vegetarian, tacos, asado, breakfast and brunch",Moderately expensive,30.23812,-97.71835,4.0,16.0,9.48,12.0,1,TX/AUSTIN,25
+5201,14835,14835,39943,La Playa Mexican Food,austin,tx,,,"mexican, latin american, new mexican",Moderately expensive,30.2003,-97.78612,3.25,25.99,11.115545454545456,9.99,1,TX/AUSTIN,110
+5202,14836,14836,39944,Taco Cabana,austin,tx,4.2,47.0,"mexican, family meals",Inexpensive,30.3882793,-97.7429849,3.09,49.59,10.00875,6.19,1,TX/AUSTIN,64
+5204,14838,14838,39946,Native Grocery,austin,tx,4.7,123.0,"mexican, mediterranean, specialty foods",Inexpensive,30.2610836,-97.7042045,3.99,11.99,8.1634375,8.99,1,TX/AUSTIN,32
+5207,14841,14841,39949,Las Planchitas de Posada,austin,tx,,,"mexican, latin american, new mexican",Moderately expensive,30.18447,-97.85062,3.5,16.0,10.80952380952381,13.0,1,TX/AUSTIN,21
+5208,14842,14842,39951,Vaquero Taquero,austin,tx,5.0,31.0,"mexican, latin american, new mexican",Inexpensive,30.2951071,-97.7364183,3.0,6.0,4.792631578947368,5.0,1,TX/AUSTIN,19
+5209,14843,14843,39952,Taqueria Arandinas,austin,tx,4.3,69.0,"mexican, latin american, new mexican",Inexpensive,30.3656744,-97.6966741,3.25,29.99,12.307786885245902,12.5,1,TX/AUSTIN,122
+5211,14845,14845,39955,Sabor Tapatio,austin,tx,4.8,118.0,"mexican, sandwich, latin american",Moderately expensive,30.204735,-97.77526,3.0,16.0,9.05,12.0,1,TX/AUSTIN,20
+5220,14854,14854,39964,Aurora Venezuelan Food,austin,tx,4.8,26.0,"latin american, mexican, vegetarian, healthy",Inexpensive,30.39521,-97.7263,3.0,22.0,10.87741935483871,10.0,1,TX/AUSTIN,31
+5226,14860,14860,39970,Taco Flats,austin,tx,4.8,72.0,"mexican, latin american, american, tex mex",Inexpensive,30.2800856,-97.7594678,4.0,18.0,8.875,8.0,1,TX/AUSTIN,68
+5227,14861,14861,39971,Freebirds World Burrito,austin,tx,4.7,194.0,"healthy, mexican, new mexican, latin american, desserts, salads, family meals",Inexpensive,30.3961639,-97.7195456,3.45,45.24,10.660243902439024,9.6,1,TX/AUSTIN,41
+5237,14871,14871,39981,Bomb Tacos,austin,tx,4.4,400.0,"mexican, latin american",Moderately expensive,30.1743359,-97.7695398,3.6,14.0,8.024561403508772,8.0,1,TX/AUSTIN,57
+5244,14878,14878,39989,TAQUERIA JOHNNY TACOS,austin,tx,4.7,302.0,"mexican, latin american, new mexican",Moderately expensive,30.25704,-97.72394,4.0,13.0,8.86111111111111,12.0,1,TX/AUSTIN,36
+5257,14891,14891,40002,Taqueria Arandas,austin,tx,,,"mexican, latin american, new mexican",Inexpensive,30.21656,-97.79882,3.25,14.99,9.395238095238096,10.24,1,TX/AUSTIN,84
+5268,14902,14902,40015,Egghead Breakfast Burritos,austin,tx,,,"breakfast and brunch, burritos, american, mexican, comfort food, family friendly",Moderately expensive,30.21353,-97.72814,3.25,14.25,9.125,11.75,1,TX/AUSTIN,14
+5270,14904,14904,40017,Burros Breakfast Burritos,austin,tx,4.4,23.0,"breakfast and brunch, burritos, american, mexican, comfort food, family friendly",Moderately expensive,30.21353,-97.72814,3.25,14.25,8.303571428571429,7.625,1,TX/AUSTIN,14
+5277,14911,14911,40026,Casa Morenos,austin,tx,4.8,240.0,"mexican, latin american, new mexican, street food, tex mex, vegetarian friendly, breakfast and brunch",Inexpensive,30.213568,-97.72816,3.0,9.99,5.953684210526316,5.99,1,TX/AUSTIN,19
+5294,14928,14928,40043,Dos Batos Tacos,austin,tx,5.0,28.0,"new mexican, allergy friendly",Inexpensive,30.3568326,-97.7352548,3.65,10.85,7.370454545454546,5.95,1,TX/AUSTIN,22
+5298,14932,14932,40052,Hole in the Wall MexTex Cuisine,austin,tx,3.9,20.0,"mexican, tex mex, new mexican",Moderately expensive,30.44612550453073,-97.68523693084715,3.99,19.99,12.7727868852459,12.99,1,TX/AUSTIN,122
+5309,14943,14943,40074,The Perfect Breakfast Burrito,austin,tx,,,"breakfast and brunch, american, comfort food, kids friendly, mexican",Moderately expensive,30.31648,-97.70811,3.0,14.0,8.764705882352942,11.0,1,TX/AUSTIN,17
+5322,14956,14956,40087,Aioli Breakfast Burrito,austin,tx,,,"breakfast and brunch, american, comfort food, kids friendly, mexican",Moderately expensive,30.31648,-97.70811,3.0,14.0,8.352941176470589,10.5,1,TX/AUSTIN,17
+5327,14961,14961,40095,Buenos Sabores,austin,tx,4.7,24.0,"mexican, desserts, allergy friendly",Inexpensive,30.45381,-97.82817,3.29,17.29,7.49,5.640000000000001,1,TX/AUSTIN,62
+5336,14970,14970,40105,Eggstreme Breakfast Burritos,austin,tx,,,"breakfast and brunch, burritos, american, mexican, comfort food, family friendly",Moderately expensive,30.2944,-97.71931,3.5,14.25,10.636363636363637,13.25,1,TX/AUSTIN,11
+5356,14990,14990,40126,Pelons,austin,tx,4.4,14.0,"mexican, family meals, tacos, burritos, new mexican, tex mex, vegan friendly, vegetarian friendly, gluten free friendly, local eats, local specialities, salads, soup, desserts, alcohol",Moderately expensive,30.2688033,-97.7365847,3.5,55.0,18.103246753246754,15.5,1,TX/AUSTIN,77
+5363,14997,14997,40134,Trudys North Star,austin,tx,4.6,88.0,"mexican, latin american, new mexican, family friendly",Inexpensive,30.3705875,-97.7275805,3.0,75.0,16.0625,16.0,1,TX/AUSTIN,136
+5365,14999,14999,40137,Capital Taco,austin,tx,4.2,15.0,"mexican, tex mex, allergy friendly",Inexpensive,30.23085,-97.79176,3.25,12.99,4.900645161290323,3.75,1,TX/AUSTIN,31
+5386,15020,15020,40161,Trudys South Star,austin,tx,4.3,140.0,"mexican, latin american, new mexican, family meals, family friendly",Moderately expensive,30.1973113,-97.7670899,6.0,75.0,20.354666666666667,18.5,1,TX/AUSTIN,75
+5389,15023,15023,40164,Pueblo Viejo,austin,tx,4.7,105.0,"mexican, tacos, breakfast and brunch, family friendly, local specialities",Inexpensive,30.2373719,-97.72494,3.5,14.95,6.917857142857143,5.55,1,TX/AUSTIN,42
+5392,15026,15026,40167,El Secreto De La Abuela,austin,tx,4.6,184.0,"mexican, latin american, new mexican, allergy friendly",Inexpensive,30.25623,-97.69262,3.0,17.49,9.45589552238806,8.25,1,TX/AUSTIN,134
+5395,15029,15029,40170,Serranos,austin,tx,4.8,114.0,"mexican, tex mex, breakfast and brunch, family friendly",Moderately expensive,30.1623323,-97.7905629,3.6,26.4,14.7,14.7,1,TX/AUSTIN,50
+5404,15038,15038,40179,Pollo Regio,austin,tx,4.7,199.0,"mexican, latin american, new mexican, family friendly",Inexpensive,30.31965,-97.68901,3.09,28.74,12.866363636363635,12.79,1,TX/AUSTIN,22
+5406,15040,15040,40181,Las Cazuelas Mexican Restaurant,austin,tx,4.4,127.0,"mexican, latin american, new mexican, breakfast and brunch, burritos, tacos, vegan friendly, braised pork rice, rice dishes, salads",Inexpensive,30.257632,-97.72644,3.25,34.95,11.286625766871166,11.95,1,TX/AUSTIN,163
+5408,15042,15042,40183,Cruzteca Mexican Kitchen,austin,tx,4.6,50.0,"tex mex, mexican, breakfast and brunch, family friendly, tacos, local specialities",Moderately expensive,30.23047,-97.81708,5.0,24.0,14.031176470588235,15.99,1,TX/AUSTIN,51
+5413,15047,15047,40188,One Taco,austin,tx,4.8,330.0,"mexican, latin american, new mexican, wings, group friendly",Inexpensive,30.406546861570813,-97.67321622448723,3.15,10.0,5.899019607843138,5.45,1,TX/AUSTIN,51
+5421,15055,15055,40197,Austin Daily Press,austin,tx,4.8,163.0,"healthy, sandwich, salads, mexican, family friendly",Inexpensive,30.2802298,-97.7211657,3.59,18.2,11.835405405405403,14.3,1,TX/AUSTIN,37
+5422,15056,15056,40199,Chipotle Mexican Grill,austin,tx,4.5,246.0,"healthy, mexican, group friendly",Inexpensive,30.2012374,-97.768482,3.15,16.0,7.85263157894737,6.425,1,TX/AUSTIN,38
+5444,15078,15078,40221,One Taco,austin,tx,4.7,247.0,"mexican, latin american, new mexican, wings, group friendly",Inexpensive,30.2659966,-97.74217,3.15,10.0,5.780392156862745,5.25,1,TX/AUSTIN,51
